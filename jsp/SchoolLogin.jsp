@@ -30,7 +30,9 @@
             <!-- 隐藏域start ~二维码素材~ --><input type="hidden" id="qecode_data" value="${qid}" >
             <!-- 隐藏域end -->
             <!-- 扫描登录start -->
-            <div class="qrcodeLogin none"> <a href="JavaScript:;" class="loginType" data-type="qrcodeLogin"></a> <img src="/res/images/code_img_fcb2774c.png" />
+            <div class="qrcodeLogin none"> <a href="JavaScript:;" class="loginType" data-type="qrcodeLogin"></a>
+                <div class="qrcode">
+                </div>
                 <p>打开微信，进入培生素公众号，进入我的培生素选择扫一扫，扫描上图二维码登录</p>
             </div>
             <!-- 扫描登录end -->
