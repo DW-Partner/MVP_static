@@ -43,7 +43,7 @@
                     <ul>
                         <li> <input type="text" name="code" data-validate="number" data-must="1" placeholder="机构代码"> </li>
                         <li> <input type="text" name="user" data-validate="number" data-must="1" placeholder="账号"> </li>
-                        <li> <input type="password" name="password" data-validate="password" data-must="1" placeholder="账号"> </li>
+                        <li> <input type="password" name="password" data-validate="password" data-must="1" placeholder="密码"> </li>
                     </ul>
                     <p class="none">机构代码、用户名和密码不匹配</p> <a href="JavaScript:;" class="btn" id="submit_login">登录</a> </div>
             </div>
