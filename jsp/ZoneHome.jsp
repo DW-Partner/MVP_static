@@ -26,8 +26,8 @@
         <p>管好资源、看清数据<span class="times" id="times"></span></p> <span class="user">用户名<a href="JavaScript:;" id="logout">退出</a>					</span> </div>
 
     <!-- 隐藏域start school_code -->
-    <input type="hidden" id="zone_code" value="123">
-    <input type="hidden" id="zoneid" value="123">
+    <input type="hidden" id="zone_code" value="${code}">
+    <input type="hidden" id="zone_zoneid" value="${zoneid}">
     <!-- 隐藏域end -->
 
     <div class="left_nav" id="left_nav">
@@ -41,7 +41,9 @@
     </div>
     <div class="main_box" id="main_box">
         <div class="main">
-            <!-- 隐藏域start ~code、zoneid~ --><input type="hidden" id="code" value="${code}" /> <input type="hidden" id="zoneid" value="${zoneid}" />
+            <!-- 隐藏域start ~code、zoneid~ -->
+            <input type="hidden" id="code" value="${code}" />
+            <input type="hidden" id="zoneid" value="${zoneid}" />
             <!-- 隐藏域end -->
             <div class="page_head"> <input type="date" class="run" /> </div>
             <div class="class_show">

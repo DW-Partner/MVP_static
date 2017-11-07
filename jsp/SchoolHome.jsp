@@ -26,7 +26,7 @@
         <p>管好资源、看清数据<span class="times" id="times"></span></p> <span class="user">用户名<a href="JavaScript:;" id="logout">退出</a></span> </div>
 
     <!-- 隐藏域start school_code -->
-    <input type="hidden" id="school_code" value="123">
+    <input type="hidden" id="school_code" value="${code}">
     <!-- 隐藏域end -->
 
     <div class="left_nav" id="left_nav">
