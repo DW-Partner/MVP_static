@@ -14,7 +14,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>校区-咨询登记-添加页面</title>
+    <title>校区-首页</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
@@ -23,16 +23,20 @@
 
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" />
-        <p>管好资源、看清数据<span class="times" id="times"></span></p> <span class="user">宇文靖<a href="JavaScript:;">退出</a>					</span> </div>
+        <p>管好资源、看清数据<span class="times" id="times"></span></p> <span class="user">用户名<a href="JavaScript:;" id="logout">退出</a>					</span> </div>
+
+    <!-- 隐藏域start school_code -->
+    <input type="hidden" id="zone_code" value="123">
+    <input type="hidden" id="zoneid" value="123">
+    <!-- 隐藏域end -->
+
     <div class="left_nav" id="left_nav">
         <ul>
-            <li><a href="#">首页</a></li>
-            <li><a href="#">校区</a></li>
-            <li class="on"><a href="#">课程资源</a></li>
-            <li><a href="#">教学教研</a></li>
-            <li><a href="#">教职员工</a></li>
-            <li><a href="#">账号设置</a></li>
-            <li><a href="#">系统资源</a></li>
+            <li class="on"><a href="/pss/goZoneHome">首页</a></li>
+            <li><a href="/pss/goZoneClassManage">班级管理</a></li>
+            <li><a href="/pss/goVisitor">咨询登记</a></li>
+            <li><a href="/pss/goSelectVisitors">学员管理</a></li>
+            <li><a href="/pss/goZoneTasks">消息与任务</a></li>
         </ul>
     </div>
     <div class="main_box" id="main_box">
