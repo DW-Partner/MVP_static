@@ -41,7 +41,6 @@
         </ul>
     </div>
     <div class="main_box" id="main_box">
-
         <div class="main">
             <div class="content">
                 <div class="header">
@@ -52,7 +51,17 @@
                     </div>
                     <div class="echartsBox">
                         <div class="echarts" id="echart1"> </div>
-                        <div class="selectBox"> <select name="" id="">								<option value="">实收流水</option>								<option value="">选项二</option>								<option value="">选项三</option>							</select> </div>
+                        <div class="selectBox">
+                            <select name="" id="echartSelect">
+                                <option value="income">今日流水实收</option>
+                                <option value="outcome">杂项支出</option>
+                                <option value="visit_num">今日咨询登记数</option>
+                                <option value="sign_num">今日报名数</option>
+                                <option value="reserve_num">预约发出数</option>
+                                <option value="teacher_leave_num">今天请假数</option>
+                                <option value="class_num">班级数</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
                 <div class="zoneList">
@@ -72,8 +81,6 @@
                 </div>
             </div>
         </div>
-
-
     </div>
     <script type="text/javascript" src="/res/js/CMD.js"></script>
     <script type="text/javascript" src="/res/js/modules/SchoolHome.js"></script>
