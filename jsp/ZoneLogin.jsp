@@ -32,7 +32,7 @@
             <!-- 隐藏域end -->
             <!-- 扫描登录start -->
             <div class="qrcodeLogin">
-                <a href="JavaScript:;" class="ico"></a>
+                <!-- <a href="JavaScript:;" class="ico"></a> -->
                 <div class="qrcode">
                 </div>
                 <p>打开微信，进入培生素公众号，进入我的培生素选择扫一扫，扫描上图二维码登录</p>
