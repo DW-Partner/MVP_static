@@ -1,5 +1,5 @@
 		<div class="main">
-			<div class="content">
+			<div class="detailContent">
 				<div class="echartsBox" id="echartsBox_2">
 					<div class="selectBox">
 						<select name="" class="echartSelect_zone">
