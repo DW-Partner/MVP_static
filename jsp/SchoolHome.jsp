@@ -45,7 +45,7 @@
             <div class="content">
                 <div class="header">
                     <div class="left">
-                        <h3>经营指标</h3>
+                        <h3><a href="/pss/goIndex?code=${code}">查看指标详情</a>经营指标</h3>
                         <ul>
                         </ul>
                     </div>
