@@ -1,13 +1,13 @@
 		<div class="main">
 			<div class="detailContent">
-				<div class="echartsBox" id="echartsBox_2">
+				<div class="echartsBox" id="echartsBox_1">
 					<div class="selectBox">
 						<select name="" class="echartSelect_zone">
 						</select>
 						<select name="" class="echartSelect_date">
+							<option value="day">天</option>
 							<option value="week">周</option>
 							<option value="month">月</option>
-							<option value="day">天</option>
 						</select>
 						<select name="" class="echartSelect_type">
                             <option value="income">今日流水实收</option>
@@ -18,6 +18,7 @@
                             <option value="teacher_leave_num">今天请假数</option>
                             <option value="class_num">班级数</option>
 						</select>
+						<a href="javascript:;" class="btn">查询</a>
 					</div>
 					<div class="echarts" id="echart1">
 					</div>
@@ -25,13 +26,12 @@
 
 				<div class="echartsBox" id="echartsBox_2">
 					<div class="selectBox">
-						<select name="" class="echartSelect_zone">
-						</select>
 						<select name="" class="echartSelect_date">
+							<option value="day">天</option>
 							<option value="week">周</option>
 							<option value="month">月</option>
-							<option value="day">天</option>
 						</select>
+						<input type="date" value="" class="entey_date">
 						<select name="" class="echartSelect_type">
                             <option value="income">今日流水实收</option>
                             <option value="outcome">杂项支出</option>
@@ -41,6 +41,7 @@
                             <option value="teacher_leave_num">今天请假数</option>
                             <option value="class_num">班级数</option>
 						</select>
+						<a href="javascript:;" class="btn">查询</a>
 					</div>
 					<div class="echarts" id="echart2">
 

@@ -31,7 +31,7 @@
 
     <div class="left_nav" id="left_nav">
         <ul>
-            <li class="on"><a href="/pss/goSchoolHome">首页</a></li>
+            <li class="on"><a href="/pss/goSchoolHome?code=${code}" data-auto="0">首页</a></li>
             <li><a href="/pss/goZone">校区</a></li>
             <li><a href="/pss/goCourse">课程资源</a></li>
             <li><a href="/pss/goPlan">教学科研</a></li>
