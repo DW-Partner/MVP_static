@@ -11,7 +11,6 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <title>机构首页</title>
@@ -20,7 +19,6 @@
     <link href="/res/css/CMD.css" rel="stylesheet">
     <link href="/res/css/modules/SchoolHome.css" rel="stylesheet">
 </head>
-
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" />
         <p>管好资源、看清数据<span class="times" id="times"></span></p> <span class="user">用户名<a href="JavaScript:;" id="logout">退出</a></span> </div>
@@ -31,13 +29,13 @@
 
     <div class="left_nav" id="left_nav">
         <ul>
-            <li class="on"><a href="/pss/goSchoolHome?code=${code}" data-auto="0">首页</a></li>
-            <li><a href="/pss/goZone">校区</a></li>
-            <li><a href="/pss/goCourse">课程资源</a></li>
-            <li><a href="/pss/goPlan">教学科研</a></li>
-            <li><a href="/pss/goTeacher">教师员工</a></li>
-            <li><a href="/pss/goAccountSet">账号设置</a></li>
-            <li><a href="/pss/goEventLog">系统日志</a></li>
+            <li class="on"><a href="/pss/goSchoolHome?code=${code}">首页</a></li>
+            <li><a href="javascript:;" data-href="/pss/goZone">校区</a></li>
+            <li><a href="javascript:;" data-href="/pss/goCourse">课程资源</a></li>
+            <li><a href="javascript:;" data-href="/pss/goPlan">教学科研</a></li>
+            <li><a href="javascript:;" data-href="/pss/goTeacher">教师员工</a></li>
+            <li><a href="javascript:;" data-href="/pss/goAccountSet">账号设置</a></li>
+            <li><a href="javascript:;" data-href="/pss/goEventLog">系统日志</a></li>
         </ul>
     </div>
     <div class="main_box" id="main_box">
@@ -45,7 +43,7 @@
             <div class="SchoolHome">
                 <div class="header">
                     <div class="left">
-                        <h3><a href="/pss/goIndex?code=${code}">查看指标详情</a>经营指标</h3>
+                        <h3><a href="/pss/goIndex?code=${code}">查看指标详情>></a>经营指标</h3>
                         <ul>
                         </ul>
                     </div>
@@ -85,5 +83,4 @@
     <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/CMD.js"></script>
     <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/SchoolHome.js"></script>
 </body>
-
 </html>

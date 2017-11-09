@@ -28,7 +28,7 @@
                             <option value="teacher_leave_num">今天请假数</option>
                             <option value="class_num">班级数</option>
 						</select>
-						<a href="javascript:;" class="btn">查询</a>
+						<a href="javascript:;" class="btn" data-auto="0">查询</a>
 					</div>
 					<div class="echarts" id="echart1">
 					</div>
@@ -51,7 +51,7 @@
                             <option value="teacher_leave_num">今天请假数</option>
                             <option value="class_num">班级数</option>
 						</select>
-						<a href="javascript:;" class="btn">查询</a>
+						<a href="javascript:;" class="btn" data-auto="0">查询</a>
 					</div>
 					<div class="echarts" id="echart2">
 
