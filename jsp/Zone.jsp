@@ -11,7 +11,7 @@
 <div class="main">
 	<div class="page_head">
 		<h3>校区列表</h3>
-		<a href="JavaScript:;" data-href="/pss/goAddOrEditZone?code=${code}" class="btn"><i>+</i>添加新校区</a>
+		<a href="JavaScript:;" data-href="/pss/goAddOrEditZone" class="btn"><i>+</i>添加新校区</a>
 	</div>
 	<div class="pub_list">
 		<div class="head">
