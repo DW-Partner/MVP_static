@@ -53,4 +53,6 @@
 			</ul>
 			<a href="JavaScript:;" class="btn" id="submit_AddOrEditZone">提交</a>
 	</div>
+	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddOrEditZone.css" rel="stylesheet">
+	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AddOrEditZone.js"></script>
 </div>
