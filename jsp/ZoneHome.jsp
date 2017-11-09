@@ -33,10 +33,10 @@
     <div class="left_nav" id="left_nav">
         <ul>
             <li class="on"><a href="/pss/goZoneHome">首页</a></li>
-            <li><a href="/pss/goZoneClassManage">班级管理</a></li>
-            <li><a href="/pss/goVisitor">咨询登记</a></li>
-            <li><a href="/pss/goSelectVisitors">学员管理</a></li>
-            <li><a href="/pss/goZoneTasks">消息与任务</a></li>
+            <li><a href="javascript:;" data-href="/pss/goZoneClassManage">班级管理</a></li>
+            <li><a href="javascript:;" data-href="/pss/goVisitor">咨询登记</a></li>
+            <li><a href="javascript:;" data-href="/pss/goSelectVisitors">学员管理</a></li>
+            <li><a href="javascript:;" data-href="/pss/goZoneTasks">消息与任务</a></li>
         </ul>
     </div>
     <div class="main_box" id="main_box">
@@ -57,8 +57,8 @@
             <p class="class_info"> <span>今日开课班级 100个</span> <span>今日授课教师 12个</span> <span>今日正式学员 216人</span> <span>今日试听学员 12人</span> </p>
         </div>
     </div>
-    <script type="text/javascript" src="/res/js/CMD.js"></script>
-    <script type="text/javascript" src="/res/js/modules/zoneHome.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/CMD.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/zoneHome.js"></script>
 </body>
 
 </html>

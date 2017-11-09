@@ -20,15 +20,15 @@
 							<option value="month">月</option>
 						</select>
 						<select name="" class="echartSelect_type">
-                            <option value="income">今日流水实收</option>
+                            <option value="income">流水实收</option>
                             <option value="outcome">杂项支出</option>
-                            <option value="visit_num">今日咨询登记数</option>
-                            <option value="sign_num">今日报名数</option>
+                            <option value="visit_num">咨询登记数</option>
+                            <option value="sign_num">报名数</option>
                             <option value="reserve_num">预约发出数</option>
-                            <option value="teacher_leave_num">今天请假数</option>
+                            <option value="teacher_leave_num">请假数</option>
                             <option value="class_num">班级数</option>
 						</select>
-						<a href="javascript:;" class="btn" data-auto="0">查询</a>
+						<a href="javascript:;" class="btn">查询</a>
 					</div>
 					<div class="echarts" id="echart1">
 					</div>
@@ -43,15 +43,15 @@
 						</select>
 						<input type="date" value="" class="entey_date">
 						<select name="" class="echartSelect_type">
-                            <option value="income">今日流水实收</option>
+                            <option value="income">流水实收</option>
                             <option value="outcome">杂项支出</option>
-                            <option value="visit_num">今日咨询登记数</option>
-                            <option value="sign_num">今日报名数</option>
+                            <option value="visit_num">咨询登记数</option>
+                            <option value="sign_num">报名数</option>
                             <option value="reserve_num">预约发出数</option>
-                            <option value="teacher_leave_num">今天请假数</option>
+                            <option value="teacher_leave_num">请假数</option>
                             <option value="class_num">班级数</option>
 						</select>
-						<a href="javascript:;" class="btn" data-auto="0">查询</a>
+						<a href="javascript:;" class="btn">查询</a>
 					</div>
 					<div class="echarts" id="echart2">
 
