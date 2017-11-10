@@ -29,6 +29,7 @@
 				<span>校址</span>
 				<span>校区类型</span>
 				<span>主营项目</span>
+				<span>操作</span>
 			</div>
 			<ul class="body">
 			</ul>

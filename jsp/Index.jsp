@@ -10,7 +10,7 @@
 %>
 		<div class="main">
 			<div class="detailContent">
-				<div class="echartsBox" id="echartsBox_1">
+				<div class="echartsBox" id="echartsBox_1" style="padding: 30px;">
 					<div class="selectBox">
 						<select name="" class="echartSelect_zone">
 						</select>
@@ -30,11 +30,11 @@
 						</select>
 						<a href="javascript:;" class="btn">查询</a>
 					</div>
-					<div class="echarts" id="echart1">
+					<div class="echarts" id="echart1" style="height: 427px;">
 					</div>
 				</div>
 
-				<div class="echartsBox" id="echartsBox_2">
+				<div class="echartsBox" id="echartsBox_2" style="padding: 30px;">
 					<div class="selectBox">
 						<select name="" class="echartSelect_date">
 							<option value="day">天</option>
@@ -53,7 +53,7 @@
 						</select>
 						<a href="javascript:;" class="btn">查询</a>
 					</div>
-					<div class="echarts" id="echart2">
+					<div class="echarts" id="echart2" style="height: 427px;">
 
 					</div>
 				</div>

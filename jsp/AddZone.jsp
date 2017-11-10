@@ -31,19 +31,19 @@
 					<span>地址</span>
 					<input type="text" class="long" placeholder="请输入地址" name="address" data-validate="any" data-must="1" />
 				</li>
-				<li>
+<!-- 				<li>
 					<span>时间</span>
 					<input type="date" placeholder="请输入" name="date" data-validate="any" />
-				</li>
+				</li> -->
 				<li>
 					<span>校区类型</span>
 					<p class="raioBox1">
-						<label><input type="radio" value="直营" name="type" checked>直营</label>
-						<label><input type="radio" value="合作" name="type">合作</label>
+						<label><input type="radio" value="0" name="type_1" checked>直营</label>
+						<label><input type="radio" value="1" name="type_1">合作</label>
 					</p>
 					<p class="raioBox2">
-						<label><input type="radio" value="商场" name="type">商场</label>
-						<label><input type="radio" value="社区" name="type">社区</label>
+						<label><input type="radio" value="0" name="type_2">商场</label>
+						<label><input type="radio" value="1" name="type_2">社区</label>
 					</p>
 				</li>
 				<li>
