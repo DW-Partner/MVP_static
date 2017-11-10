@@ -25,7 +25,7 @@
 				</li>
 				<li>
 					<span>固定电话</span>
-					<input type="text" class="short" placeholder="请输入固定电话号码" name="telephone" data-validate="number" data-must="1" />
+					<input type="text" class="short" placeholder="请输入固定电话号码" name="telephone" data-validate="number" />
 				</li>
 				<li>
 					<span>地址</span>
