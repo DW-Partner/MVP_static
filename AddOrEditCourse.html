@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
+    <link href="/res/css/modules/AddOrEditCourse.css" rel="stylesheet">
 </head>
 
 <body>
@@ -29,7 +30,7 @@
                 <ul>
                     <li> <span class="wide">课程分类名</span> <input type="text" class="short" placeholder="请输入课程分类名" name="name" data-validate="any" data-must="1" /> <i>*</i> <span>有效课时数</span> <input type="text" class="shortest" placeholder="请输入有效课时数" name="lesson_num"
                             data-validate="number" data-must="1" /> <i>*</i> <span>课时时长</span> <input type="text" class="shortest no_margin" placeholder="请输入课时时长" name="standard_time" data-validate="number" data-must="1" />分钟 </li>
-                    <li> <span class="wide">收费方式</span> <select>					<option>按课时</option>				</select> </li>
+                    <li> <span class="wide">收费方式</span> <select name="fee_model" data-validate="any">					<option value="按课时">按课时</option>					<option value="按期">按期</option>				</select> </li>
                     <li> <span class="wide">课程对象</span> <input type="text" placeholder="请输入课程对象" name="user" data-validate="any" data-must="1" /> <i>*</i> </li>
                     <li> <span class="wide">课程多维目标</span> <input type="text" class="long" placeholder="请输入课程多维目标" name="target" data-validate="any" data-must="1" /> <i>*</i> </li>
                     <li> <span class="wide">课程总体介绍</span> <textarea class="long" placeholder="请输入课程多维目标" name="outline" data-validate="any" data-must="1" /> </textarea> <i>*</i> </li>
@@ -90,6 +91,7 @@
     </div>
     </div>
     <script type="text/javascript" src="/res/js/CMD.js"></script>
+    <script type="text/javascript" src="/res/js/modules/AddOrEditCourse.js"></script>
 </body>
 
 </html>
