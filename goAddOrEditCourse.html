@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
-    <link href="/res/css/modules/zone_classEdit.css" rel="stylesheet">
+    <link href="/res/css/modules/goAddOrEditCourse.css" rel="stylesheet">
 </head>
 
 <body>
@@ -26,15 +26,15 @@
     </div>
     <div class="main_box" id="main_box">
         <div class="main">
-            <div class="pub_form">
+            <div class="pub_form AddOrEditCourse">
                 <ul>
-                    <li> <span>课程分类名</span> <input type="text" class="short" placeholder="请输入"> <span>有效课时数</span> <input type="text" class="shortest" placeholder="请输入"> <span>课时时长</span> <input type="text" class="shortest" placeholder="请输入">分钟 </li>
-                    <li>
-                        <span>收费方式</span> <select>						<option>按课时</option>					</select> </li>
-                    <li> <span>课程对象</span> <input type="text" placeholder="请输入"> </li>
+                    <li> <span class="wide">课程分类名</span> <input type="text" class="short" placeholder="请输入"> <span>有效课时数</span> <input type="text" class="shortest" placeholder="请输入"> <span>课时时长</span> <input type="text" class="shortest no_margin" placeholder="请输入">分钟
+                        </li>
+                    <li> <span class="wide">收费方式</span> <select>						<option>按课时</option>					</select> </li>
+                    <li> <span class="wide">课程对象</span> <input type="text" placeholder="请输入"> </li>
                     <li> <span class="wide">课程多维目标</span> <input type="text" class="long" placeholder="请输入"> </li>
                     <li> <span class="wide">课程总体介绍</span> <textarea class="long">					</textarea> </li>
-                </ul> <a href="JavaScript:;" class="btn">添加课时</a> <a href="JavaScript:;" class="btn_dis">删除课时</a> </div>
+                </ul> <a href="JavaScript:;" id="submit_AddOrEditCourse" class="btn">添加课时</a> <a href="JavaScript:;" id="submit_del_AddOrEditCourse" class="btn_dis">删除课时</a> </div>
             <div class="pub_list">
                 <div class="head"> <span>课时序号</span> <span>课程主题</span> <span>当前状态</span> <span>教学大纲</span> </div>
                 <ul class="body">
@@ -91,7 +91,7 @@
     </div>
     </div>
     <script type="text/javascript" src="/res/js/CMD.js"></script>
-    <script type="text/javascript" src="/res/js/modules/zone_classEdit.js"></script>
+    <script type="text/javascript" src="/res/js/modules/goAddOrEditCourse.js"></script>
 </body>
 
 </html>

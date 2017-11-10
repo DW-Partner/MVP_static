@@ -20,16 +20,15 @@
 			</div>
 			<a href="JavaScript:;" data-href="/pss/goAddOrEditZone?zoneid=${zoneid}" class="btn" id="editZone">修改校区信息</a>
 		</div>
-		<h3 class="page_title">校区列表</h3>
+		<h3 class="page_title">班级情况</h3>
 		<div class="pub_list">
 			<div class="head">
-				<span>校区名称</span>
-				<span>负责人</span>
-				<span>电话</span>
-				<span>校址</span>
-				<span>校区类型</span>
-				<span>主营项目</span>
-				<span>操作</span>
+				<span>班级名称</span>
+				<span>课程名称</span>
+				<span>开课时间</span>
+				<span>教师姓名</span>
+				<span>当前课时</span>
+				<span>学员数</span>
 			</div>
 			<ul class="body">
 			</ul>
