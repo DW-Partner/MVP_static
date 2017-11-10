@@ -18,7 +18,7 @@
 			</div>
 			<div class="content_middle">
 			</div>
-			<a href="JavaScript:;" data-href="/pss/goZoneDetail?zoneid=${zoneid}" class="btn" id="editZone">修改校区信息</a>
+			<a href="JavaScript:;" data-href="/pss/goAddOrEditZone?zoneid=${zoneid}" class="btn" id="editZone">修改校区信息</a>
 		</div>
 		<h3 class="page_title">校区列表</h3>
 		<div class="pub_list">
