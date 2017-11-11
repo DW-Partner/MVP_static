@@ -18,7 +18,7 @@
 		<div class="contain">
 			<div class="classLi">
 			</div>
-			<a href="javascript:;" data-href="/pss/goPlan?courseid=${courseid}">
+			<a href="javascript:;" data-href="/pss/goPlan?courseid=${courseid}" class="btn">返回上一页</a>
 		</div>
 
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/PlanDetail.css" rel="stylesheet">
