@@ -16,8 +16,8 @@
 	<div class="pub_form AddOrEditCourse">
 		<ul>
 		</ul>
-		<a href="JavaScript:;" id="submit_AddOrEditCourse" class="btn">添加课时</a>
-		<a href="JavaScript:;" id="submit_del_AddOrEditCourse" class="btn_dis">删除课时</a>
+		<a href="JavaScript:;" id="add_lesson" class="btn">添加课时</a>
+		<!-- <a href="JavaScript:;" id="submit_del_AddOrEditCourse" class="btn_dis">删除课时</a> -->
 	</div>
 	<div class="pub_list">
 		<div class="head">
@@ -25,14 +25,12 @@
 			<span>课程主题</span>
 			<span>当前状态</span>
 			<span>教学大纲</span>
+			<span>操作</span>
 		</div>
-		<ul class="body">
+		<ul class="body" id="lessons">
 		</ul>
-		<div class="page">
-			<p>
-			</p>
-		</div>
 	</div>
+	<a href="JavaScript:;" id="submit_course" class="btn submit_course">保存</a>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddOrEditCourse.css" rel="stylesheet">
 	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AddOrEditCourse.js"></script>
 </div>
