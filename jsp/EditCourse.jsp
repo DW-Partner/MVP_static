@@ -31,6 +31,7 @@
 		</ul>
 	</div>
 	<a href="JavaScript:;" id="submit_course" class="btn submit_course">保存</a>
+	<a href="JavaScript:;" data-href="/pss/goCourse" class="btn_dis">取消</a>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddOrEditCourse.css" rel="stylesheet">
 	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AddOrEditCourse.js"></script>
 </div>

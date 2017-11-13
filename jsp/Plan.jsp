@@ -14,7 +14,7 @@
     <input type="hidden" id="courseid" value="${courseid}">
     <!-- 隐藏域end -->
 	<div class="page_head">
-		<h3>教学科研</h3>
+		<h3>教学教研</h3>
 		<div class="run">
 			<input type="text" placeholder="课程名称" />
 			<a href="JavaScript:;" class="btn">搜索</a>
