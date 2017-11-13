@@ -16,14 +16,14 @@
 	<div class="page_head">
 		<h3>教学教研</h3>
 		<div class="run">
-			<input type="text" placeholder="课程名称" />
+			<input type="text" placeholder="请输入课时主题" />
 			<a href="JavaScript:;" class="btn">搜索</a>
 		</div>
 	</div>
 	<div class="pub_list">
 		<div class="head">
 			<span>课时编号</span>
-			<span>课程主题</span>
+			<span>课时主题</span>
 			<span>提交人</span>
 			<span>时间</span>
 			<span>地点</span>
