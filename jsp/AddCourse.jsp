@@ -12,8 +12,8 @@
 	<div class="pub_form AddOrEditCourse">
 		<ul>
 			<li>
-				<span class="wide"><i>*</i>课程分类名</span>
-				<input type="text" class="short" placeholder="请输入课程分类名" name="course_name" data-validate="any" data-must="1" />
+				<span class="wide"><i>*</i>分类课程</span>
+				<input type="text" class="short" placeholder="请输入分类课程" name="course_name" data-validate="any" data-must="1" />
 				<span class="wide"><i>*</i>有效课时数</span>
 				<input type="text" class="shortest" placeholder="请输入有效课时数" name="lesson_num" data-validate="number" data-must="1" />
 				<span><i>*</i>课时时长</span>
