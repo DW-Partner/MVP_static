@@ -10,6 +10,10 @@
 
 %>
 <div class="main">
+	<div class="page_head">
+		<h3>教师员工</h3>
+		<a href="JavaScript:;" data-href="/pss/goAddOrEditTeacher" class="btn"><i>+</i>添加教师</a>
+	</div>
 	<div class="pub_list">
 		<div class="head">
 			<span>工号</span>
