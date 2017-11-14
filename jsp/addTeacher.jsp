@@ -11,7 +11,7 @@
 	<div class="pub_form">
 			<ul>
 			</ul>
-			<a href="JavaScript:;" class="btn" id="submit_AddOrEditZone">提交</a>
+			<a href="JavaScript:;" class="btn" id="submit_AddOrEditTeacher">提交</a>
 			<a href="JavaScript:;" data-href="/pss/Teacher" class="btn_dis">取消</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddOrEditTeacher.css" rel="stylesheet">
