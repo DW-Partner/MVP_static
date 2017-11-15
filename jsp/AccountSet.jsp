@@ -15,15 +15,15 @@
 				<h5>机构密码管理</h5>
 				<p>
 					<span>输入原密码</span>
-					<input type="text" name="oldpass" data-validate="number" data-must="1" placeholder="输入原密码" />
+					<input type="password" name="oldpass" data-validate="password" data-must="1" placeholder="输入原密码" />
 				</p>
 				<p>
 					<span>输入新密码</span>
-					<input type="text" name="newpass" data-validate="number" data-must="1" placeholder="输入新密码" />
+					<input type="password" name="newpass" data-validate="password" data-must="1" placeholder="输入新密码" />
 				</p>
 				<p>
 					<span>确认新密码</span>
-					<input type="text" name="newpass_check" data-validate="number" data-must="1" placeholder="输入新密码" />
+					<input type="password" name="newpass_check" data-validate="password" data-must="1" placeholder="输入新密码" />
 				</p>
 				<a href="JavaScript:;" class="btn" id="submit_pass">提交</a>
 				<!-- <button class="on">提交</button> -->
