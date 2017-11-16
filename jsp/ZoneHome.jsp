@@ -5,13 +5,9 @@
 	String basePath = request.getScheme() + "://"
 			+ request.getServerName() + ":" + request.getServerPort()
 			+ path + "/";
-	
-
 %>
-
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <title>校区-首页</title>
@@ -20,10 +16,11 @@
     <link href="/res/css/CMD.css" rel="stylesheet">
     <link href="/res/css/modules/zoneHome.css" rel="stylesheet">
 </head>
-
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" />
-        <p>管好资源、看清数据<span class="times" id="times"></span></p> <span class="user">用户名<a href="JavaScript:;" id="logout">退出</a>					</span> </div>
+        <p><!-- 管好资源、看清数据 --><span class="times" id="times"></span></p>
+        <span class="user">${zone_name}<a href="JavaScript:;" id="logout">退出</a></span>
+    </div>
 
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="zone_code" value="${code}">
@@ -41,20 +38,13 @@
     </div>
     <div class="main_box" id="main_box">
         <div class="main">
-            <!-- 隐藏域start ~code、zoneid~ -->
-            <input type="hidden" id="code" value="${code}" />
-            <input type="hidden" id="zoneid" value="${zoneid}" />
-            <!-- 隐藏域end -->
             <div class="page_head"> <input type="date" class="run" /> </div>
             <div class="class_show">
                 <ul class="item_box">
-                    <li class="item">
-                        <h6>班级1-课时2</h6>
-                        <p>宇文靖</p> <span class="mark">❤</span> </li>
                 </ul>
                 <div class="times"> <span>8:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span> </div>
             </div>
-            <p class="class_info"> <span>今日开课班级 100个</span> <span>今日授课教师 12个</span> <span>今日正式学员 216人</span> <span>今日试听学员 12人</span> </p>
+            <p class="class_info"></p>
         </div>
     </div>
     <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/CMD.js"></script>
