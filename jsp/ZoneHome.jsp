@@ -13,12 +13,12 @@
     <title>校区-首页</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <link href="/res/css/CMD.css" rel="stylesheet">
-    <link href="/res/css/modules/zoneHome.css" rel="stylesheet">
+    <link href="http://pss.idrpeng.com:9090/res/css/CMD.css" rel="stylesheet">
+    <link href="http://pss.idrpeng.com:9090/res/css/modules/zoneHome.css" rel="stylesheet">
 </head>
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" />
-        <p><!-- 管好资源、看清数据 --><span class="times" id="times"></span></p>
+        <p><!-- 管好资源、看清数据 -->${zone_name}<span class="times" id="times"></span></p>
         <span class="user">${zone_name}<a href="JavaScript:;" id="logout">退出</a></span>
     </div>
 
@@ -29,7 +29,7 @@
 
     <div class="left_nav" id="left_nav">
         <ul>
-            <li class="on"><a href="/pss/goZoneHome">首页</a></li>
+            <li class="on"><a href="/pss/goZoneHome?code=${code}&zoneid=${zoneid}">首页</a></li>
             <li><a href="javascript:;" data-href="/pss/goZoneClassManage">班级管理</a></li>
             <li><a href="javascript:;" data-href="/pss/goVisitor">咨询登记</a></li>
             <li><a href="javascript:;" data-href="/pss/goSelectVisitors">学员管理</a></li>
@@ -40,8 +40,8 @@
         <div class="main">
             <div class="page_head"> <input type="date" class="run" /> </div>
             <div class="class_show">
-                <ul class="item_box">
-                </ul>
+                <div class="list_box">
+                </div>
                 <div class="times"> <span>8:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span> </div>
             </div>
             <p class="class_info"></p>
