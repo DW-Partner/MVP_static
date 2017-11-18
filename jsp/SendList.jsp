@@ -31,5 +31,5 @@
 		</div>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/ZoneTasks.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/ClassInfo/ZoneTasks.js"></script>
+	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/ZoneTasks.js"></script>
 </div>

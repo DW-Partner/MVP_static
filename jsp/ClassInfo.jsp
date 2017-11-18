@@ -30,5 +30,5 @@
 	<a href="JavaScript:;" data-href="/pss/goZoneClassManage" class="btn">返回上一页</a>
 
     <link href="http://pss.idrpeng.com:9090/res/css/modules/ClassInfo.css" rel="stylesheet">
-    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/ClassInfo/zoneHome.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/ClassInfo.js"></script>
 </div>
