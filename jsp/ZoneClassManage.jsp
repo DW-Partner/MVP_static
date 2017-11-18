@@ -27,4 +27,6 @@
 			</p>
 		</div>
 	</div>
+	<link href="http://pss.idrpeng.com:9090/res/css/modules/ZoneClassManage.css" rel="stylesheet">
+	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/ClassInfo/ZoneClassManage.js"></script>
 </div>
