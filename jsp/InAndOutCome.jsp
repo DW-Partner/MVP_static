@@ -21,5 +21,5 @@
 		<a href="JavaScript:;" class="btn" id="submitInAndOutCome">发送</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/InAndOutCome.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/InAndOutCome.js"></script>
+	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/InAndOutCome.js"></script>
 </div>

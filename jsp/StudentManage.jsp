@@ -34,5 +34,5 @@
 	</div>
 
     <link href="http://pss.idrpeng.com:9090/res/css/modules/StudentManage.css" rel="stylesheet">
-    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/StudentManage.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/StudentManage.js"></script>
 </div>

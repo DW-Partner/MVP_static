@@ -50,5 +50,5 @@
 		<a href="JavaScript:;" data-href="/pss/goZoneClassManage" class="btn_dis">取消</a>
 	</div>
     <link href="http://pss.idrpeng.com:9090/res/css/modules/ZoneAddClass.css" rel="stylesheet">
-    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/ZoneAddClass.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/ZoneAddClass.js"></script>
 </div>
