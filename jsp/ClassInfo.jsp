@@ -7,15 +7,12 @@
 			+ path + "/";
 %>
 <div class="main">
+    <!-- 隐藏域start school_code -->
+    <input type="hidden" id="classid" value="${classid}">
+    <!-- 隐藏域end -->
  	<div class="page_head">
- 		<h3>班级1</h3>
+ 		<h3></h3>
  		<div class="run">
-			<select>
-				<option>全部</option>
-			</select>
-			<span>上课时间<em>周三17:00-19:00</em></span>
-			<span>预招人数<em>32</em></span>
-			<span>实际学员人数<em>12</em></span>
 		</div>
 	</div>
 
