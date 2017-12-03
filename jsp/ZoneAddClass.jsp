@@ -47,7 +47,7 @@
 				<!-- <a href="JavaScript:;" class="btn"><i>+</i>添加新时间</a> -->
 			</li>
 		</ul>
-		<a href="JavaScript:;" class="btn">确定</a>
+		<a href="JavaScript:;" class="btn" id="submit_add">确定</a>
 		<a href="JavaScript:;" data-href="/pss/goZoneClassManage" class="btn_dis">取消</a>
 	</div>
     <link href="http://pss.idrpeng.com:9090/res/css/modules/ZoneAddClass.css" rel="stylesheet">
