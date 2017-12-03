@@ -7,6 +7,9 @@
 			+ path + "/";
 %>
 <div class="main">
+	<div class="page_head">
+		<h3>学员管理</h3>
+	</div>
 	<div class="pub_list">
 		<div class="head">
 			<span class="flex_2">录入时间</span>
