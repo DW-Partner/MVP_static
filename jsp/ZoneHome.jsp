@@ -42,7 +42,7 @@
             <div class="class_show">
                 <div class="list_box">
                 </div>
-                <div class="times"> <span>8:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span> </div>
+                <div class="times"> <span>08:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span><span></span></div>
             </div>
             <p class="class_info"></p>
         </div>
