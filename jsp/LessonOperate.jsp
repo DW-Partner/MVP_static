@@ -28,7 +28,7 @@
 				</li>
 			</ul>
 			<a href="JavaScript:;" class="btn" id="submit_edit">确定</a>
-			<a href="JavaScript:;" data-href="/pss/pss/goZoneClassManage" class="btn_dis">取消</a>
+			<a href="JavaScript:;" data-href="/pss/goZoneClassManage" class="btn_dis">取消</a>
 		</div>
 
 		<div class="info">
