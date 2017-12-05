@@ -18,7 +18,7 @@
 		<div class="pub_form">
 			<ul>
 				<li>
-					<span>课时更改</span>
+					<span>课时改期</span>
 					<input type="text" class="short" id="plan_time" placeholder="请输入上课时间" name="plan_time" data-validate="any" data-must="1"/>
 				</li>
 				<li>
