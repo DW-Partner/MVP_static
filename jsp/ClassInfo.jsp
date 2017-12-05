@@ -11,7 +11,7 @@
     <input type="hidden" id="classid" value="${classid}">
     <!-- 隐藏域end -->
  	<div class="page_head">
- 		<h3>课时流程</h3>
+ 		<h3>班级信息</h3>
  		<div class="run">
 		</div>
 	</div>
