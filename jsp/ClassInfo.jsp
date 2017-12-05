@@ -11,9 +11,12 @@
     <input type="hidden" id="classid" value="${classid}">
     <!-- 隐藏域end -->
  	<div class="page_head">
- 		<h3></h3>
+ 		<h3>课时流程</h3>
  		<div class="run">
 		</div>
+	</div>
+
+	<div class="dataBox">
 	</div>
 
 	<ul class="class_list">
