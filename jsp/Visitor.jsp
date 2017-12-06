@@ -31,7 +31,7 @@
 			<span>跟进反馈</span>
 			<span>试听时间</span>
 			<span>状态</span>
-			<span>操作</span>
+			<span class="flex_2">操作</span>
 		</div>
 		<ul class="body">
 		</ul>
