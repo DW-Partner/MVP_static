@@ -12,6 +12,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="sid" value="${sid}">
+    <input type="hidden" id="page" value="${page}">
     <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>

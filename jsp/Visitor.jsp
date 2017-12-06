@@ -22,10 +22,10 @@
 			<span class="flex_2">住址</span>
 			<span class="flex_2">电话</span>
 			<span>关系人</span>
-			<span class="flex_2">当前跟进反馈信息</span>
+			<span class="flex_2">咨询内容</span>
 			<span>来源</span>
 			<span>跟进反馈</span>
-			<span>试听情况</span>
+			<span>试听时间</span>
 			<span>状态</span>
 			<span>操作</span>
 		</div>
