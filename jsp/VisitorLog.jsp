@@ -9,6 +9,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="sid" value="${sid}">
+    <input type="hidden" id="page" value="${page}">
     <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>
@@ -26,6 +27,6 @@
 		<a href="JavaScript:;" id="submit_log" class="btn">确定</a>
 		<a href="JavaScript:;" data-href="/pss/goVisitor" class="btn_dis">取消</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddAudit.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AddAudit.js"></script>
+	<link href="http://pss.idrpeng.com:9090/res/css/modules/VisitorLog.css" rel="stylesheet">
+	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/VisitorLog.js"></script>
 </div>

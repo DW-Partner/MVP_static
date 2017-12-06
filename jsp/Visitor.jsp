@@ -9,6 +9,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="page" value="${page}">
+    <input type="hidden" id="data" value="${data}">
     <!-- 隐藏域end -->
 	<div class="page_head">
 		<h3>咨询登记</h3>
