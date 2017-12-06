@@ -7,6 +7,9 @@
 			+ path + "/";
 %>
 <div class="main">
+    <!-- 隐藏域start school_code -->
+    <input type="hidden" id="page" value="${page}">
+    <!-- 隐藏域end -->
 	<div class="page_head">
 		<h3>咨询登记</h3>
 		<a href="JavaScript:;" data-href="/pss/goSelectVisitors?from=1" class="btn">筛选</a>
