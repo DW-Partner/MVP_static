@@ -11,11 +11,11 @@
 		<ul>
 			<li>
 				<span>开始时间</span>
-				<input type="date" class="short" placeholder="请输入" name="start_time" data-validate="any">
+				<input type="date" class="short" placeholder="请输入" name="signTime1" data-validate="any">
 			</li>
 			<li>
 				<span>结束时间</span>
-				<input type="date" class="short" placeholder="请输入" name="end_time" data-validate="any">
+				<input type="date" class="short" placeholder="请输入" name="signTime2" data-validate="any">
 			</li>
 
 			<li>
@@ -23,6 +23,11 @@
 				<input type="text" class="short" placeholder="请输入" name="name" data-validate="any">
 				<em>输入姓或名模糊匹配</em>
 			</li>
+			<li>
+				<span>年龄</span>
+				<input type="text" class="shortest" placeholder="请输入" name="age1" data-validate="number">~<input type="text" class="shortest" placeholder="请输入" name="age2" data-validate="number">
+			</li>
+
 			<li>
 				<span>性别</span>
 				<select name="gender" data-validate="any">
