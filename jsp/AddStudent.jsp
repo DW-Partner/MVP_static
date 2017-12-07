@@ -10,7 +10,7 @@
 	<div class="pub_form">
 		<ul>
 		</ul>
-		<a href="JavaScript:;" class="btn" id="submit_add">确定</a>
+		<a href="JavaScript:;" class="btn" id="submit_AddOrEdit">确定</a>
 		<a href="JavaScript:;" data-href="/pss/goStudentManage?page=${page}" class="btn_dis">取消</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddStudent.css" rel="stylesheet">

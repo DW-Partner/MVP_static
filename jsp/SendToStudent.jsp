@@ -14,10 +14,10 @@
 	<div class="pub_form">
 		<ul>
 			<li>
-				<textarea placeholder="请输入通知内容"></textarea>
+				<textarea placeholder="请输入通知内容" name="notice" data-validate="any" data-must="1"></textarea>
 			</li>
 		</ul>
-		<a href="JavaScript:;" class="btn">发送</a>
+		<a href="JavaScript:;" class="btn" id="submit_send">发送</a>
 		<a href="JavaScript:;" data-href="/pss/goStudentManage?page=${page}" class="btn_dis">取消</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/SendToStudent.css" rel="stylesheet">
