@@ -25,7 +25,9 @@
 			</li>
 			<li>
 				<span>年龄</span>
-				<input type="text" class="shortest" placeholder="请输入" name="age1" data-validate="number">~<input type="text" class="shortest" placeholder="请输入" name="age2" data-validate="number">
+				<input type="text" class="shortest" placeholder="请输入" name="age1" data-validate="number" data-must="1">
+				~
+				<input type="text" class="shortest" placeholder="请输入" name="age2" data-validate="number" data-must="1">
 			</li>
 
 			<li>
