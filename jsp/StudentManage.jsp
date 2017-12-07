@@ -7,6 +7,10 @@
 			+ path + "/";
 %>
 <div class="main">
+    <!-- 隐藏域start school_code -->
+    <input type="hidden" id="page" value="${page}">
+    <input type="hidden" id="data" value="${data}">
+    <!-- 隐藏域end -->
 	<div class="page_head">
 		<h3>学员管理</h3>
 		<a href="JavaScript:;" data-href="/pss/goSelectVisitors?from=2" class="btn">查询</a>
