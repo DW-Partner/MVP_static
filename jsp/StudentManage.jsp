@@ -9,6 +9,9 @@
 <div class="main">
 	<div class="page_head">
 		<h3>学员管理</h3>
+		<a href="JavaScript:;" data-href="/pss/goAddStudent" class="btn">报名添加</a>
+		<a href="JavaScript:;" class="btn"><i>+</i>批量导入</a>
+		<a href="JavaScript:;" data-href="/pss/goSelectVisitors?from=2" class="btn"><i>+</i>查询</a>
 	</div>
 	<div class="pub_list">
 		<div class="head">
@@ -21,6 +24,7 @@
 			<span class="flex_2">电话</span>
 			<span>来源</span>
 			<span>剩余课时</span>
+			<span class="flex_2">操作</span>
 		</div>
 		<ul class="body">
 		</ul>
@@ -30,11 +34,11 @@
 		</div>
 	</div>
 
-	<div class="run">
+<!-- 	<div class="run">
 		<a href="JavaScript:;" class="btn_grey">报名添加</a>
 		<a href="JavaScript:;" class="btn_grey">批量导入</a>
 		<a href="JavaScript:;" class="btn_grey">查询</a>
-	</div>
+	</div> -->
 
     <link href="http://pss.idrpeng.com:9090/res/css/modules/StudentManage.css" rel="stylesheet">
     <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/StudentManage.js"></script>
