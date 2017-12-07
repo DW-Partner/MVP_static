@@ -25,9 +25,9 @@
 			</li>
 			<li>
 				<span>年龄</span>
-				<input type="text" class="shortest" placeholder="请输入" name="age1" data-validate="number" data-must="1">
+				<input type="text" class="shortest" placeholder="请输入" name="age1" data-validate="number">
 				~
-				<input type="text" class="shortest" placeholder="请输入" name="age2" data-validate="number" data-must="1">
+				<input type="text" class="shortest" placeholder="请输入" name="age2" data-validate="number">
 			</li>
 
 			<li>
@@ -65,6 +65,7 @@
 			<li>
 				<span>试听状态</span>
 				<select name="visitorStatus" data-validate="any">
+					<option value="">请选择</option>
 					<option value="登记状态">登记状态</option>
 			        <option value="试听状态">试听状态</option>
 			        <option value="试听结束">试听结束</option>
