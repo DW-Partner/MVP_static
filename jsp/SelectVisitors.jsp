@@ -8,7 +8,7 @@
 %>
 <div class="main">
     <!-- 隐藏域start school_code -->
-    <input type="hidden" id="form" value="${form}">
+    <input type="hidden" id="from" value="${from}">
     <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>
