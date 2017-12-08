@@ -10,6 +10,7 @@
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="sid" value="${sid}">
     <input type="hidden" id="page" value="${page}">
+    <input type="hidden" id="classid" value="${classid}">
     <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>
