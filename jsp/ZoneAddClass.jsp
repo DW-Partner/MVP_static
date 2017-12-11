@@ -36,7 +36,7 @@
 			</li>
 			<li>
 				<span><i>*</i>上课时段</span>
-				<select>
+				<select id="timeType">
 					<option value="day">每日</option>
 					<option value="week">每周</option>
 					<option value="month">每月</option>
