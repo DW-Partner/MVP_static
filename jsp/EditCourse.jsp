@@ -17,6 +17,9 @@
 		<ul>
 		</ul>
 		<a href="JavaScript:;" id="add_lesson" class="btn">添加课时</a>
+		<a href="JavaScript:;" id="import_lesson" class="btn">
+			<input type="file" class="inputFile">
+			批量导入(csv文件)</a>
 		<!-- <a href="JavaScript:;" id="submit_del_AddOrEditCourse" class="btn_dis">删除课时</a> -->
 	</div>
 	<div class="pub_list">
