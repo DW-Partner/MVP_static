@@ -12,6 +12,9 @@
 <div class="main">
 	<div class="page_head">
 		<h3>教师员工</h3>
+		<a href="JavaScript:;" class="btn"><i>+</i>批量导入
+			<input type="file" class="inputFile">
+		</a>
 		<a href="JavaScript:;" data-href="/pss/goAddOrEditTeacher" class="btn"><i>+</i>添加教师</a>
 	</div>
 	<div class="pub_list">
@@ -32,9 +35,9 @@
 			</p>
 		</div>
 	</div>
-	<div class="run">
+<!-- 	<div class="run">
 		<a href="JavaScript:;" class="btn">批量导入</a>
-	</div>
+	</div> -->
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/Teacher.css" rel="stylesheet">
 	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/Teacher.js"></script>
 </div>

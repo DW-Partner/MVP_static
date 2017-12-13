@@ -32,8 +32,11 @@
                     <li> <span><i>*</i>预招人数</span> <input type="text" class="short" placeholder="请输入预招人数" name="reserve_num" data-validate="number" data-must="1" /> <span class="wide"><i>*</i>选择教师</span> <select name="teacher_id" data-validate="any" data-must="1">						<!-- <option>请选择</option> -->					</select>                        </li>
                     <li class="tips">*本课程共有15个课时，每个课时的推荐时长为1小时</li>
                     <li> <span class="wide"><i>*</i>选择开班时间</span> <input type="date" name="start_time" data-validate="any" data-must="1" /> </li>
-                    <li> <span><i>*</i>上课时段</span> <select>					<option value="day">每日</option>			<!-- 		<option value="week">每周</option>					<option value="month">每月</option> -->				</select> <input type="text" class="short" id="day_times" placeholder="请输入上课时段"
-                            data-validate="any" data-must="1" /> </li>
+                    <li> <span><i>*</i>上课时段</span> <select class="timeType">					<option value="day">每日</option>					<option value="week">每周</option>					<option value="month">每月</option>				</select>
+                        <div class="item box_day"> <input type="text" class="short" id="day_times" placeholder="请输入上课时段" /> </div>
+                        <div class="box_week"> 周六： <input type="text" class="short" id="day_times" placeholder="请输入上课时段" /> 周日： <input type="text" class="short" id="day_times" placeholder="请输入上课时段" /> </div>
+                        <div class="box_month"> <input type="text" class="short" id="day_times_month" placeholder="请输入上课时段" /> </div>
+                    </li>
                 </ul> <a href="JavaScript:;" class="btn" id="submit_add">确定</a> <a href="JavaScript:;" class="btn_dis">取消</a> </div>
         </div>
     </div>
