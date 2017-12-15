@@ -31,7 +31,7 @@
 			</li>
 		</ul>
 		<a href="JavaScript:;" class="btn" id="submit">确认提交</a>
-		<a href="JavaScript:;" class="btn">取消</a>
+		<a href="JavaScript:;" data-href="/pss/goStudentManage" class="btn_dis">取消</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/StudentPayment.css" rel="stylesheet">
 	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/StudentPayment.js"></script>
