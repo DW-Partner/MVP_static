@@ -43,7 +43,7 @@
             <div class="SchoolHome">
                 <div class="header">
                     <div class="left">
-                        <h3><a href="javascript:;" data-href="/pss/goIndex">查看周月指标详情>></a>经营指标</h3>
+                        <h3><a href="javascript:;" data-href="/pss/goIndex">查看周月指标详情>></a>经营日报</h3>
                         <ul>
                         </ul>
                     </div>
@@ -57,7 +57,7 @@
                                 <option value="sign_num">今日报名数</option>
                                 <option value="reserve_num">预约发出数</option>
                                 <option value="teacher_leave_num">今天请假数</option>
-                                <option value="class_num">班级数</option>
+                                <option value="class_num">开班数</option>
                             </select>
                         </div>
                     </div>

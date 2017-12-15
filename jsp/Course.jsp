@@ -17,7 +17,7 @@
 	<div class="pub_list">
 		<div class="head">
 				<span>课程分类名</span>
-				<span>子课（课时）</span>
+				<span>有效课时数</span>
 				<span>课程对象</span>
 				<span>课程目标</span>
 				<span class="flex_3">课程介绍</span>

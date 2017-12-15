@@ -26,7 +26,7 @@
                             <option value="sign_num">报名数</option>
                             <option value="reserve_num">预约发出数</option>
                             <option value="teacher_leave_num">请假数</option>
-                            <option value="class_num">班级数</option>
+                            <option value="class_num">开班数</option>
 						</select>
 						<a href="javascript:;" class="btn">查询</a>
 					</div>
@@ -49,7 +49,7 @@
                             <option value="sign_num">报名数</option>
                             <option value="reserve_num">预约发出数</option>
                             <option value="teacher_leave_num">请假数</option>
-                            <option value="class_num">班级数</option>
+                            <option value="class_num">开班数</option>
 						</select>
 						<a href="javascript:;" class="btn">查询</a>
 					</div>
