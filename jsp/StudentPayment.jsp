@@ -23,11 +23,11 @@
 			<li class="line"></li>
 			<li>
 				<span>缴费金额</span>
-				<input type="text" class="shortest" placeholder="请输入缴费金额" name="money" data-validate="number" data-must="1" />元
+				<input type="text" class="short" placeholder="请输入缴费金额" name="money" data-validate="number" data-must="1" />元
 			</li>
 			<li>
 				<span>购买课时数</span>
-				<input type="text" class="shortest" placeholder="请输入购买课时数" name="lessons" data-validate="number" data-must="1" />节
+				<input type="text" class="short" placeholder="请输入购买课时数" name="lessons" data-validate="number" data-must="1" />节
 			</li>
 		</ul>
 		<a href="JavaScript:;" class="btn" id="submit">确认提交</a>
