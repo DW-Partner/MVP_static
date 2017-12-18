@@ -29,22 +29,67 @@
 					<!-- <option>请选择</option> -->
 				</select>
 			</li>
-			<li class="tips">*本课程共有15个课时，每个课时的推荐时长为1小时</li>
+			<li class="tips">*本课程共有个课时，每个课时的推荐时长为-</li>
 			<li>
 				<span class="wide"><i>*</i>选择开班时间</span>
 				<input type="date" name="start_time" data-validate="any" data-must="1"/>
 			</li>
 			<li>
 				<span><i>*</i>上课时段</span>
-				<select id="timeType">
-					<option value="day">每日</option>
-					<option value="week">每周</option>
-					<option value="month">每月</option>
-				</select>
 
-				<input type="text" class="short" id="day_times" placeholder="请输入上课时段" name="lessons" data-validate="any" data-must="1"/>
-
-				<!-- <a href="JavaScript:;" class="btn"><i>+</i>添加新时间</a> -->
+					<div class="timeList">
+						<div class="item">
+							<select class="timeType">
+								<option value="day">每日</option>
+								<option value="week">每周</option>
+								<option value="month">每月</option>
+							</select>
+							<select class="week none">
+								<option value="2">星期一</option>
+								<option value="3">星期二</option>
+								<option value="4">星期三</option>
+								<option value="5">星期四</option>
+								<option value="6">星期五</option>
+								<option value="7">星期六</option>
+								<option value="1">星期日</option>
+							</select>
+							<select class="month none">
+								<option value="1">1日</option>
+								<option value="2">2日</option>
+								<option value="3">3日</option>
+								<option value="4">4日</option>
+								<option value="5">5日</option>
+								<option value="6">6日</option>
+								<option value="7">7日</option>
+								<option value="8">8日</option>
+								<option value="9">9日</option>
+								<option value="10">10日</option>
+								<option value="11">11日</option>
+								<option value="12">12日</option>
+								<option value="13">13日</option>
+								<option value="14">14日</option>
+								<option value="15">15日</option>
+								<option value="16">16日</option>
+								<option value="17">17日</option>
+								<option value="18">18日</option>
+								<option value="19">19日</option>
+								<option value="20">20日</option>
+								<option value="21">21日</option>
+								<option value="22">22日</option>
+								<option value="23">23日</option>
+								<option value="24">24日</option>
+								<option value="25">25日</option>
+								<option value="26">26日</option>
+								<option value="27">27日</option>
+								<option value="28">28日</option>
+								<option value="29">29日</option>
+								<option value="30">30日</option>
+								<option value="31">31日</option>
+							</select>
+							<input type="text" class="short" id="day_times" placeholder="请输入上课时段" />
+							<a href="JavaScript:;" class="btn run_item">添加</a>
+						</div>
+					</div>
 			</li>
 		</ul>
 		<a href="JavaScript:;" class="btn" id="submit_add">确定</a>
