@@ -87,7 +87,7 @@
 								<option value="31">31日</option>
 							</select>
 							<input type="text" class="short" id="day_times" placeholder="请输入上课时段" />
-							<a href="JavaScript:;" class="btn run_item">添加</a>
+							<a href="JavaScript:;" class="btn run_item_add">添加</a>
 						</div>
 					</div>
 			</li>
