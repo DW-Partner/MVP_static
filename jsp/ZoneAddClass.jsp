@@ -31,7 +31,7 @@
 			</li>
 			<li class="tips">*本课程共有个课时，每个课时的推荐时长为-</li>
 			<li>
-				<span class="wide"><i>*</i>选择开班时间</span>
+				<span class="wide"><i>*</i>选择开始时间</span>
 				<input type="date" name="start_time" data-validate="any" data-must="1"/>
 			</li>
 			<li>
