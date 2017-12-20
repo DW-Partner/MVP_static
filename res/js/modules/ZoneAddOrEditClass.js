@@ -164,7 +164,11 @@ function(t) {
                 t.teacher_id = +t.teacher_id,
                 t.reserve_num = +t.reserve_num;
                 for (var e in t) t[e] == u[e] && delete t[e];
-                t.time_regular = [],
+                t.time_regular = [{
+				type:'day',
+				day:0,
+				time:''
+			    }],
                 $(".timeList .item").each(function() {
                     var e = $(this).find("input").eq(0).val(),
                     i = {};
