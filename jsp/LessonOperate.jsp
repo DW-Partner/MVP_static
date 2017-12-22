@@ -12,7 +12,7 @@
     <input type="hidden" id="lessonid" value="${lessonid}">
     <!-- 隐藏域end -->
 
-	<img src="/res/images/pic_banner_01_37c4d6d1.jpg" class="banner">
+	<!-- <img src="/res/images/pic_banner_01_37c4d6d1.jpg" class="banner"> -->
 	<div class="period_edit">
 		<h5>课程调整</h5>
 		<div class="pub_form">
