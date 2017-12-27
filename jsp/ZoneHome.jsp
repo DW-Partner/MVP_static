@@ -17,10 +17,8 @@
     <link href="http://pss.idrpeng.com:9090/res/css/modules/zoneHome.css" rel="stylesheet">
 </head>
 <body>
-    <div class="top_box"> <img src="/download/school_logo_${code}.png" />
-        <p><span class="times" id="times"></span></p>
-	<span class="user">${zone_name}<a href="JavaScript:;" id="logout">退出</a></span>
-	</div>
+    <div class="top_box"> <img src="/res/images/logo_92244787.png" /><p></p><img src="/download/school_logo_${code}.png" />
+        <p><span class="times" id="times"></span></p> <span class="user">${zone_name}<a href="JavaScript:;" id="logout">退出</a></span> </div>
 
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="zone_code" value="${code}">
