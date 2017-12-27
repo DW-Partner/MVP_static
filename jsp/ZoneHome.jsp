@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" />
-        <p><!-- 管好资源、看清数据 -->${zone_name}<span class="times" id="times"></span></p>
+        <p><!-- 管好资源、看清数据${zone_name} --><span class="times" id="times"></span></p>
         <span class="user">${zone_name}<a href="JavaScript:;" id="logout">退出</a></span>
     </div>
 
