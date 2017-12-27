@@ -14,29 +14,30 @@
 
 		<ul>
 			<li>
-				<span><i>*</i>班级名称</span>
+				<span class="wide"><i>*</i>班级名称</span>
 				<input type="text" class="short" placeholder="请输入班级名称" name="class_name" data-validate="any" data-must="1" />
+			</li>
+			<li>
 				<span class="wide"><i>*</i>选择分类课程</span>
 				<select name="course_id" data-validate="any" data-must="1">
 					<!-- <option>请选择</option> -->
-				</select>
+				</select><em class="tips">*本课程共有个课时，每个课时的推荐时长为-</em>
 			</li>
 			<li>
-				<span><i>*</i>预招人数</span>
+				<span class="wide"><i>*</i>预招人数</span>
 				<input type="text" class="short" placeholder="请输入预招人数" name="reserve_num" data-validate="number" data-must="1" />
 				<span class="wide"><i>*</i>选择教师</span>
 				<select name="teacher_id" data-validate="any" data-must="1">
 					<!-- <option>请选择</option> -->
 				</select>
 			</li>
-			<li class="tips">*本课程共有个课时，每个课时的推荐时长为-</li>
+			
 			<li>
 				<span class="wide"><i>*</i>选择开始时间</span>
 				<input type="date" name="start_time" data-validate="any" data-must="1"/>
 			</li>
 			<li>
-				<span><i>*</i>上课时段</span>
-
+				<span class="wide"><i>*</i>上课时段</span>
 					<div class="timeList">
 						<div class="item">
 							<select class="timeType">
