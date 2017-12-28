@@ -25,7 +25,7 @@
 	<div class="pub_list">
 		<div class="head">
 			<span>课时序号</span>
-			<span>课程主题</span>
+			<span>课程主题名</span>
 			<span>当前状态</span>
 			<span>教学大纲</span>
 			<span>操作</span>
