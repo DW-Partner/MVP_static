@@ -22,7 +22,6 @@
 			<span>工号</span>
 			<span>姓名</span>
 			<span>所属校区</span>
-			<span>科目</span>
 			<span>类别</span>
 			<span>入职时间</span>
 			<span>状态</span>
