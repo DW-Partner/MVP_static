@@ -34,7 +34,7 @@
 			
 			<li>
 				<span class="wide"><i>*</i>选择开始时间</span>
-				<input type="text" id="start_time" name="start_time" data-validate="any" data-must="1"/>
+				<input type="text" id="start_time" class="short" name="start_time" data-validate="any" data-must="1"/>
 			</li>
 			<li>
 				<span class="wide"><i>*</i>上课时段</span>
