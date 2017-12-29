@@ -36,8 +36,9 @@
 			<li>
 				<span>性别</span>
 				<select name="gender" data-validate="any">
-					<option>男</option>
-					<option>女</option>>
+					<option value="">请选择</option>
+					<option value="男">男</option>
+					<option value="女">女</option>
 				</select>
 			</li>
 			<li>
@@ -85,7 +86,7 @@
 			</li>
 		</ul>
 		<a href="JavaScript:;" class="btn" id="search">确定</a>
-		<a href="JavaScript:;" data-href="/pss/goVisitor" class="btn_dis">取消</a>
+		<a href="JavaScript:;" id="cancel" class="btn_dis">取消</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/SelectVisitors.css" rel="stylesheet">
 	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/SelectVisitors.js"></script>
