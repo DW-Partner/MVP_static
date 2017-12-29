@@ -11,10 +11,11 @@
     <input type="hidden" id="classid" value="${classid}">
     <input type="hidden" id="lessonid" value="${lessonid}">
     <!-- 隐藏域end -->
-
+    <div class="page_head">
+        <h3>课时调整</h3>
+    </div>
 	<!-- <img src="/res/images/pic_banner_01_37c4d6d1.jpg" class="banner"> -->
 	<div class="period_edit">
-		<h5>课时调整</h5>
 		<div class="pub_form">
 			<ul>
 				<li>
