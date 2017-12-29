@@ -80,6 +80,7 @@
 			<li>
 				<span>是否跟进</span>
 				<select>
+					<option value="">请选择</option>
 					<option value="是">是</option>
 					<option value="否">否</option>
 				</select>
