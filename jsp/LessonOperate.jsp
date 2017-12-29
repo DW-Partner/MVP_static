@@ -14,7 +14,7 @@
 
 	<!-- <img src="/res/images/pic_banner_01_37c4d6d1.jpg" class="banner"> -->
 	<div class="period_edit">
-		<h5>课程调整</h5>
+		<h5>课时调整</h5>
 		<div class="pub_form">
 			<ul>
 				<li>
