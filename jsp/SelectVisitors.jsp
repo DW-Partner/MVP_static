@@ -70,10 +70,9 @@
 				<span>试听状态</span>
 				<select name="visitorStatus" data-validate="any">
 					<option value="">请选择</option>
-					<option value="登记状态">登记状态</option>
-			        <option value="试听状态">试听状态</option>
-			        <option value="试听结束">试听结束</option>
-			        <option value="转入正式">转入正式</option>
+					<option value="登记">登记</option>
+			        <option value="试听">试听</option>
+			        <option value="转正式">转正式</option>
 				</select>
 				<em>说明：如果是正式学员，则此条件隐藏</em>
 			</li>
