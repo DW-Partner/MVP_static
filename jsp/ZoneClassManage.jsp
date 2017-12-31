@@ -15,7 +15,7 @@
 		<div class="head">
 			<span>班级名称</span>
 			<span>开课时间</span>
-			<span>任教老师</span>
+			<span>主课老师</span>
 			<span>正式学员</span>
 			<span>试听学员</span>
 			<span>操作</span>
