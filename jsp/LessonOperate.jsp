@@ -10,6 +10,7 @@
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="classid" value="${classid}">
     <input type="hidden" id="lessonid" value="${lessonid}">
+    <input type="hidden" id="sid" value="${sid}">
     <!-- 隐藏域end -->
     <div class="page_head">
         <h3>课时调整</h3>
