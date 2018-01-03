@@ -22,7 +22,6 @@
 	</div>
 	<div class="pub_list">
 		<div class="head">
-			<span>课时编号</span>
 			<span>课时主题</span>
 			<span>提交人</span>
 			<span>时间</span>
