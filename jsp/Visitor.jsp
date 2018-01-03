@@ -29,7 +29,7 @@
 			<span class="flex_2">住址</span>
 			<span class="flex_2">电话</span>
 			<span>关系人</span>
-			<span class="flex_2">咨询内容</span>
+			<span class="flex_2">关注与咨询方向</span>
 			<span>来源</span>
 			<span>跟进反馈</span>
 			<span>试听时间</span>
