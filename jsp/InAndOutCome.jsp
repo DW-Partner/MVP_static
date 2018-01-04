@@ -22,7 +22,8 @@
 				<input type="text" placeholder="请输入当日杂项支出" name="outcome" data-validate="number" data-must="1" />
 			</li>
 		</ul>
-		<a href="JavaScript:;" class="btn" id="submitInAndOutCome">发送</a>
+		<a href="JavaScript:;" class="btn" id="submitInAndOutCome">提交</a>
+		<a href="JavaScript:;" data-href="/pss/goZoneTasks" class="btn_dis">取消</a>
 	</div>
 	<link href="http://pss.idrpeng.com:9090/res/css/modules/InAndOutCome.css" rel="stylesheet">
 	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/InAndOutCome.js"></script>
