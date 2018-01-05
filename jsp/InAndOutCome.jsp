@@ -11,7 +11,7 @@
 		<ul>
 			<li>
 				<span class="wide">日期</span>
-				<input type="text" placeholder="请选择流水日期" name="date" data-validate="any" data-must="1" />
+				<input type="text" placeholder="请选择流水日期" id="date" name="date" data-validate="any" data-must="1" />
 			</li>
 			<li>
 				<span class="wide">当日流水实收</span>
