@@ -20,7 +20,7 @@
 	<div class="pub_list" id="MsgFromSchool">
 		<div class="head">
 			<span>发送时间</span>
-			<span>发送给</span>
+			<span>发送者</span>
 			<span>发送内容</span>
 			<span>信息已处理</span>
 		</div>
