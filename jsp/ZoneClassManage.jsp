@@ -8,6 +8,7 @@
 %>
 <div class="main">
 	<div class="page_head">
+		<h3>班级管理</h3>
 		<a href="JavaScript:;" data-href="/pss/goZoneAddClass" class="btn"><i>+</i>添加班级</a>
 	</div>
 
