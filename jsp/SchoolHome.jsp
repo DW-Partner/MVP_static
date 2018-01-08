@@ -50,6 +50,7 @@
                     <div class="echartsBox">
                         <div class="echarts" id="echart1"> </div>
                         <div class="selectBox">
+				<!-- <option value="class_num">开班数</option> -->
                             <select name="" id="echartSelect">
                                 <option value="income">昨日流水实收</option>
                                 <option value="outcome">昨日杂项支出</option>
@@ -57,7 +58,6 @@
                                 <option value="sign_num">昨日报名数</option>
                                 <option value="reserve_num">昨日预约发出数</option>
                                 <option value="teacher_leave_num">昨日请假数</option>
-                                <option value="class_num">开班数</option>
                             </select>
                         </div>
                     </div>
