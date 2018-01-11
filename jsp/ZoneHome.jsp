@@ -36,7 +36,7 @@
     </div>
     <div class="main_box" id="main_box">
         <div class="main">
-            <div class="page_head"> <input type="text" id="s_date" class="run" /> </div>
+            <div class="page_head"> <input type="text" id="s_date" class="run" style="width: 200px;"/> </div>
             <div class="class_show">
                 <div class="list_box">
                 </div>

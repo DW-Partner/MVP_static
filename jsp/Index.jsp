@@ -41,7 +41,7 @@
 							<option value="week">周</option>
 							<option value="month">月</option>
 						</select>
-						<input type="date" value="" class="entey_date">
+						<input type="text" value="" id="entey_date" class="entey_date">
 						<select name="" class="echartSelect_type">
                             <option value="income">流水实收</option>
                             <option value="outcome">杂项支出</option>
