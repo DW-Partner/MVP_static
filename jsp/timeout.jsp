@@ -10,6 +10,6 @@
 %>
 <div class="main">
 	<div class="get_error">
-	    您登陆已过期，请<a href="${url}">重新登录</a>
+	    您登陆已过期，请<a href="/pss/${url}">重新登录</a>
 	</div>
 </div>
