@@ -27,7 +27,7 @@
 				<span>课程名称</span>
 				<span>开课时间</span>
 				<span>教师姓名</span>
-				<span>当前课时</span>
+				<!--<span>当前课时</span>-->
 				<span>学员数</span>
 			</div>
 			<ul class="body">
