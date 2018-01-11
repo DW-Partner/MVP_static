@@ -19,7 +19,7 @@
 	</div>
 	<div class="pub_list">
 		<div class="head">
-			<span>工号</span>
+			<!--<span>工号</span>-->
 			<span>姓名</span>
 			<span>所属校区</span>
 			<span>类别</span>
