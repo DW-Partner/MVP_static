@@ -13,7 +13,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>机构首页</title>
+    <title>${school_name}-机构首页</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
