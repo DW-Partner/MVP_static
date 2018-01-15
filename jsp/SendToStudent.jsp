@@ -20,6 +20,6 @@
 		<a href="JavaScript:;" class="btn" id="submit_send">发送</a>
 		<a href="JavaScript:;" data-href="/pss/goStudentManage?page=${page}" class="btn_dis">取消</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/SendToStudent.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/SendToStudent.js"></script>
+	<link href="/res/css/modules/SendToStudent.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/SendToStudent.js"></script>
 </div>

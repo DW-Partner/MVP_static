@@ -88,6 +88,6 @@
 		<a href="JavaScript:;" class="btn" id="search">确定</a>
 		<a href="JavaScript:;" id="cancel" class="btn_dis">取消</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/SelectVisitors.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/SelectVisitors.js"></script>
+	<link href="/res/css/modules/SelectVisitors.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/SelectVisitors.js"></script>
 </div>

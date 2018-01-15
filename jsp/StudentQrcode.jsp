@@ -19,6 +19,6 @@
 		<!-- <a href="JavaScript:;" class="btn">复制二维码</a> -->
 		<a href="JavaScript:;" data-href="/pss/goStudentManage?page=${page}" class="btn_dis">返回</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/StudentQrcode.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/StudentQrcode.js"></script>
+	<link href="/res/css/modules/StudentQrcode.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/StudentQrcode.js"></script>
 </div>

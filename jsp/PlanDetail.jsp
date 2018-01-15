@@ -21,6 +21,6 @@
 			<a href="javascript:;" data-href="/pss/goPlan?courseid=${courseid}" class="btn">返回上一页</a>
 		</div>
 
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/PlanDetail.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/PlanDetail.js"></script>
+	<link href="/res/css/modules/PlanDetail.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/PlanDetail.js"></script>
 </div>

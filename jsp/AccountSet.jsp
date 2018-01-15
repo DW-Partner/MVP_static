@@ -46,6 +46,6 @@
 			</ul>
 		</div>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/AccountSet.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AccountSet.js"></script>
+	<link href="/res/css/modules/AccountSet.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/AccountSet.js"></script>
 </div>

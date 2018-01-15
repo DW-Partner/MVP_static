@@ -37,6 +37,6 @@
 <!-- 	<div class="run">
 		<a href="JavaScript:;" class="btn">批量导入</a>
 	</div> -->
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/Teacher.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/Teacher.js"></script>
+	<link href="/res/css/modules/Teacher.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/Teacher.js"></script>
 </div>

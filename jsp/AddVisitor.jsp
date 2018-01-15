@@ -16,6 +16,6 @@
 		<a href="JavaScript:;" id="submit_AddOrEdit" class="btn">确定</a>
 		<a href="JavaScript:;" data-href="/pss/goVisitor" class="btn_dis">取消</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddOrEditVisitor.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AddOrEditVisitor.js"></script>
+	<link href="/res/css/modules/AddOrEditVisitor.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/AddOrEditVisitor.js"></script>
 </div>

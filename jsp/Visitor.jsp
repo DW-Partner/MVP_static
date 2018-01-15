@@ -51,6 +51,6 @@
 		<a href="JavaScript:;" class="btn_grey">选中试听</a>
 		<a href="JavaScript:;" class="btn_grey">选中转正式</a>
 	</div> -->
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/Visitor.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/Visitor.js"></script>
+	<link href="/res/css/modules/Visitor.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/Visitor.js"></script>
 </div>

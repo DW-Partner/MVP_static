@@ -46,6 +46,6 @@
 		<a href="JavaScript:;" class="btn_grey">查询</a>
 	</div> -->
 
-    <link href="http://pss.idrpeng.com:9090/res/css/modules/StudentManage.css" rel="stylesheet">
-    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/StudentManage.js"></script>
+    <link href="/res/css/modules/StudentManage.css" rel="stylesheet">
+    <script type="text/javascript" src="/res/js/modules/StudentManage.js"></script>
 </div>

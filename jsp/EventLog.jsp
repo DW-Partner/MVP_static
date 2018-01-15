@@ -24,6 +24,6 @@
 					</p>
 				</div>
 			</div>
-			<link href="http://pss.idrpeng.com:9090/res/css/modules/EventLog.css" rel="stylesheet">
-			<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/EventLog.js"></script>
+			<link href="/res/css/modules/EventLog.css" rel="stylesheet">
+			<script type="text/javascript" src="/res/js/modules/EventLog.js"></script>
 		</div>

@@ -20,6 +20,6 @@
 		<!-- <a href="JavaScript:;" class="btn">复制二维码</a> -->
 		<a href="JavaScript:;" data-href="/pss/goAccountSet" class="btn_dis">返回</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/ZoneQrcode.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/ZoneQrcode.js"></script>
+	<link href="/res/css/modules/ZoneQrcode.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/ZoneQrcode.js"></script>
 </div>

@@ -36,6 +36,6 @@
 		<div class="info">
 		</div>
 	</div>
-    <link href="http://pss.idrpeng.com:9090/res/css/modules/LessonOperate.css" rel="stylesheet">
-    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/LessonOperate.js"></script>
+    <link href="/res/css/modules/LessonOperate.css" rel="stylesheet">
+    <script type="text/javascript" src="/res/js/modules/LessonOperate.js"></script>
 </div>

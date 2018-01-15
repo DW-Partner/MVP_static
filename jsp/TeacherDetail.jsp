@@ -37,6 +37,6 @@
 			<a href="javascript:;" class="btn" id="t_qrcode">重新生成二维码</a>
 		</div>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/TeacherDetail.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/TeacherDetail.js"></script>
+	<link href="/res/css/modules/TeacherDetail.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/TeacherDetail.js"></script>
 </div>

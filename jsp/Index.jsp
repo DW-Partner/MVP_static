@@ -58,6 +58,6 @@
 					</div>
 				</div>
 			</div>
-    		<link href="http://pss.idrpeng.com:9090/res/css/modules/Index.css" rel="stylesheet">
-    		<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/Index.js"></script>
+    		<link href="/res/css/modules/Index.css" rel="stylesheet">
+    		<script type="text/javascript" src="/res/js/modules/Index.js"></script>
 		</div>

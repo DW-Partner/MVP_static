@@ -13,6 +13,6 @@
 		<a href="JavaScript:;" class="btn" id="submit_AddOrEdit">确定</a>
 		<a href="JavaScript:;" data-href="/pss/goStudentManage?page=${page}" class="btn_dis">取消</a>
 	</div>
-	<link href="http://pss.idrpeng.com:9090/res/css/modules/AddOrEditStudent.css" rel="stylesheet">
-	<script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/modules/AddOrEditStudent.js"></script>
+	<link href="/res/css/modules/AddOrEditStudent.css" rel="stylesheet">
+	<script type="text/javascript" src="/res/js/modules/AddOrEditStudent.js"></script>
 </div>
