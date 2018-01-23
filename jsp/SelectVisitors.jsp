@@ -27,10 +27,10 @@
 				<em>输入姓或名模糊匹配</em>
 			</li>
 			<li>
-				<span>年龄</span>
-				<input type="text" class="shortest" placeholder="请输入" name="age1" data-validate="number">
+				<span>出生日期</span>
+				<input type="text" class="short" placeholder="请输入" name="birthday1" data-validate="any">
 				~
-				<input type="text" class="shortest" placeholder="请输入" name="age2" data-validate="number">
+				<input type="text" class="short" placeholder="请输入" name="birthday2" data-validate="any">
 			</li>
 
 			<li>
