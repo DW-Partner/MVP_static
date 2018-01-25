@@ -24,7 +24,7 @@
 		<div class="head">
 			<span class="flex_2">登记日期</span>
 			<span>姓名</span>
-			<span>出生日期</span>
+			<span>年龄</span>
 			<span>性别</span>
 			<span class="flex_2">住址</span>
 			<span class="flex_2">电话</span>
