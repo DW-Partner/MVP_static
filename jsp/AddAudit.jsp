@@ -21,7 +21,7 @@
 				<span>选择试听：</span>
 				<select name="class_id" data-validate="any" data-must="1" class="short">
 				</select>
-				<select name="lesson_id" data-validate="any" data-must="1" class="short">
+				<select name="lesson_id" data-validate="any" data-must="1" class="wider">
 				</select>
 			</li>
 		</ul>
