@@ -28,9 +28,9 @@
 			</li>
 			<li>
 				<span>出生日期</span>
-				<input type="text" class="short" placeholder="请输入" name="birthday1" data-validate="any">
+				<input type="text" class="short" placeholder="请输入" id="birthday1" name="birthday1" data-validate="any">
 				~
-				<input type="text" class="short" placeholder="请输入" name="birthday2" data-validate="any">
+				<input type="text" class="short" placeholder="请输入" id="birthday2" name="birthday2" data-validate="any">
 			</li>
 
 			<li>
