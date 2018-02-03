@@ -9,6 +9,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="classid" value="${classid}">
+    <input type="hidden" id="sid" value="${sid}">
     <!-- 隐藏域end -->
  	<div class="page_head">
  		<h3>班级信息——班级课程表</h3>
