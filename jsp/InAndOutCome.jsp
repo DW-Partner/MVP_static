@@ -7,11 +7,14 @@
 			+ path + "/";
 %>
 <div class="main">
+    <!-- 隐藏域start school_code -->
+    <input type="hidden" id="date" value="${date}">
+    <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>
 			<li>
 				<span class="wide">日期</span>
-				<input type="text" placeholder="请选择流水日期" id="date" name="date" data-validate="any" data-must="1" />
+				<input type="text" placeholder="请选择流水日期" id="date" name="date" data-validate="any" data-must="1" value="${date}" readonly="readonly" />
 			</li>
 			<li>
 				<span class="wide">当日流水实收</span>
