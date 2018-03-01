@@ -9,6 +9,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="type" value="MsgFromSchool">
+    <input type="hidden" id="page" value="${page}">
     <!-- 隐藏域end -->
 	<div class="type_nav">
 		<div class="bg_bar">
