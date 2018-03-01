@@ -9,6 +9,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="date" value="${date}">
+    <input type="hidden" id="date" value="${page}">
     <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>
@@ -26,7 +27,7 @@
 			</li>
 		</ul>
 		<a href="JavaScript:;" class="btn" id="submitInAndOutCome">提交</a>
-		<a href="JavaScript:;" data-href="/pss/goMsgFromSchool" class="btn_dis">取消</a>
+		<a href="JavaScript:;" data-href="/pss/goMsgFromSchool?page=${page}" class="btn_dis">取消</a>
 	</div>
 	<link href="/res/css/modules/InAndOutCome.css" rel="stylesheet">
 	<script type="text/javascript" src="/res/js/modules/InAndOutCome.js"></script>
