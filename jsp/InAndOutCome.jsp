@@ -9,7 +9,8 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="date" value="${date}">
-    <input type="hidden" id="date" value="${page}">
+    <input type="hidden" id="page" value="${page}">
+    <input type="hidden" id="msgid" value="${msgid}">
     <!-- 隐藏域end -->
 	<div class="pub_form">
 		<ul>
