@@ -43,6 +43,30 @@
                 <div class="times"> <span>08:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span><span></span></div>
             </div>
             <p class="class_info"></p>
+
+
+            <div class="echartsBox" id="echartsBox_1" style="padding: 30px;">
+                <div class="selectBox">
+                    <select name="" class="echartSelect_date">
+                        <option value="day">天</option>
+                        <option value="week">周</option>
+                        <option value="month">月</option>
+                    </select>
+                    <select name="" class="echartSelect_type">
+                        <option value="income">流水实收</option>
+                        <option value="outcome">杂项支出</option>
+                        <option value="visit_num">咨询登记数</option>
+                        <option value="sign_num">报名数</option>
+                        <option value="reserve_num">预约发出数</option>
+                        <option value="teacher_leave_num">请假数</option>
+                        <option value="class_num">开班数</option>
+                    </select>
+                    <a href="javascript:;" class="btn">查询</a>
+                </div>
+                <div class="echarts" id="echart1" style="height: 427px;">
+                </div>
+            </div>
+
         </div>
     </div>
     <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/CMD.js"></script>

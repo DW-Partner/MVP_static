@@ -1,1 +1,1 @@
-.pub_form li input[type=text].short{margin-right:5px}.pub_form .line{border-top:1px solid #eaeaea;margin-top:30px;height:0;overflow:hidden}
+.pub_form{overflow:auto}.pub_form .left,.pub_form .right{float:left}.pub_form .left{width:600px;border-right:1px solid #eaeaea;margin:0 30px}.pub_form li input[type=text].short{margin-right:5px}.pub_form .line{border-top:1px solid #eaeaea;margin-top:30px;height:0;overflow:hidden}
