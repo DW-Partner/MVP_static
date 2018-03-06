@@ -24,7 +24,6 @@
 				<li>
 					<span class="wide">购买课时数</span>
 					<input type="text" class="short" placeholder="请输入购买课时数" name="lessons" data-validate="number" data-must="1" />节
-					（已开班学员此项填报最新的剩余课时数）
 				</li>
 				<li>
 					<span class="wide">备注说明</span>
