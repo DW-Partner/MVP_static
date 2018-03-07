@@ -24,6 +24,7 @@
     <input type="hidden" id="zone_code" value="${code}">
     <input type="hidden" id="zone_zoneid" value="${zoneid}">
     <input type="hidden" id="flagship" value="${flagship}">
+    <input type="hidden" id="type" value="${type}">
     <!-- 隐藏域end -->
 
     <div class="left_nav" id="left_nav">
