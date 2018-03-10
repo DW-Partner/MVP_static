@@ -33,7 +33,7 @@
             <li><a href="javascript:;" data-href="/pss/goZone">校区</a></li>
             <li><a href="javascript:;" data-href="/pss/goCourse">课程体系</a></li>
             <li><a href="javascript:;" data-href="/pss/goPlan">·教学教研</a></li>
-            <li><a href="javascript:;" data-href="/pss/goTeacher">教师员工</a></li>
+            <li><a href="javascript:;" data-href="/pss/goTeacher">教师督导</a></li>
             <li><a href="javascript:;" data-href="/pss/goAccountSet">账号设置</a></li>
             <li><a href="javascript:;" data-href="/pss/goEventLog">系统日志</a></li>
         </ul>

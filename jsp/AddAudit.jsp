@@ -28,6 +28,26 @@
 		<a href="JavaScript:;" class="btn" id="submit">提交</a>
 		<a href="JavaScript:;" data-href="/pss/goVisitor?page=${page}" class="btn_dis">取消</a>
 	</div>
+
+	<div class="page_head">
+		<h3>试听列表</h3>
+	</div>
+
+	<div class="pub_list">
+		<div class="head">
+			<span>校区</span>
+			<span>班级</span>
+			<span>课程</span>
+			<span>课时主题</span>
+			<span>试听时间</span>
+			<span>试听结果</span>
+		</div>
+		<ul class="body">
+		</ul>
+		<div class="page">
+		</div>
+	</div>
+
 	<link href="/res/css/modules/AddAudit.css" rel="stylesheet">
 	<script type="text/javascript" src="/res/js/modules/AddAudit.js"></script>
 </div>
