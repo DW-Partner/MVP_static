@@ -31,7 +31,7 @@
         <ul>
             <li class="on"><a href="/pss/goZoneHome?code=${code}&zoneid=${zoneid}">首页</a></li>
             <li><a href="javascript:;" data-href="/pss/goZoneClassManage">班级管理</a></li>
-            <li><a href="javascript:;" data-href="/pss/goTeacher" class="goTeacher">校区教师</a></li>
+            <li class="goTeacher"><a href="javascript:;" data-href="/pss/goTeacher">校区教师</a></li>
             <li><a href="javascript:;" data-href="/pss/goVisitor">咨询登记</a></li>
             <li><a href="javascript:;" data-href="/pss/goStudentManage">学员管理</a></li>
             <li><a href="javascript:;" data-href="/pss/goZoneTasks">消息与任务</a></li>

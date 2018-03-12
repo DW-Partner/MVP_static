@@ -34,10 +34,10 @@
 				<h3 class="tab_nav">教师详情</h3>
 				<h3 class="tab_nav">历史教学信息</h3>
 			</div>
-			<div class="content_middle">
+			<div class="content_middle tab_item">
 			</div>
 
-			<div class="content_middle tab_item">
+			<div class="content_middle tab_item" style="display: none;">
 				<div class="pub_list">
 					<div class="head">
 						<span>时间</span>
