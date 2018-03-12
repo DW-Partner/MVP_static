@@ -46,8 +46,6 @@
                 <div class="times"> <span>08:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span><span></span></div>
             </div>
             <p class="class_info"></p>
-
-
             <div class="echartsBox" id="echartsBox_1" style="padding: 30px;">
                 <div class="selectBox">
                     <select name="" class="echartSelect_date">
@@ -69,7 +67,6 @@
                 <div class="echarts" id="echart1" style="height: 427px;">
                 </div>
             </div>
-
         </div>
     </div>
     <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/CMD.js"></script>
