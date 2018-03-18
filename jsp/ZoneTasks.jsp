@@ -8,7 +8,7 @@
 %>
 <div class="main">
     <!-- 隐藏域start school_code -->
-    <input type="hidden" id="msgPageType" value="ZoneTasks">
+    <input type="hidden" id="type" value="ZoneTasks">
     <!-- 隐藏域end -->
 	<div class="type_nav">
 		<div class="bg_bar">
