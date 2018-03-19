@@ -29,7 +29,7 @@
 			<span class="flex_2">住址</span>
 			<span class="flex_2">电话</span>
 			<span>来源</span>
-			<span>剩余课时</span>
+			<span>总剩余课时</span>
 			<span class="flex_2">操作</span>
 		</div>
 		<ul class="body">
