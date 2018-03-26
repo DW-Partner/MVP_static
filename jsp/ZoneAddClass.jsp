@@ -36,6 +36,12 @@
 				<span class="wide"><i>*</i>开班时间</span>
 				<input type="text" id="start_time" class="short" name="start_time" data-validate="any" data-must="1"/>
 			</li>
+
+			<li>
+				<span class="wide">设置为试听班级</span>
+				<input type="checkbox" id="set_audit" class="m-checkbox" value="1"><label for="set_audit"></label>
+			</li>
+			
 			<li>
 				<span class="wide"><i>*</i>上课时段</span>
 					<div class="timeList">
