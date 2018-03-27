@@ -14,11 +14,11 @@
 	<div class="page_head">
 		<h3>学员管理</h3>
 		<a href="JavaScript:;" data-href="/pss/goSelectVisitors?from=2" class="btn">查询</a>
-		<a href="JavaScript:;" id="exportData" class="btn">导出结果</a>
 		<a href="JavaScript:;" class="btn"><i>+</i>批量导入
 			<input type="file" class="inputFile">
 		</a>
 		<a href="JavaScript:;" data-href="/pss/goAddStudent" class="btn"><i>+</i>报名添加</a>
+		<a href="JavaScript:;" id="exportData" class="btn"><i>+</i>导出结果</a>
 	</div>
 	<div class="pub_list">
 		<div class="head">
