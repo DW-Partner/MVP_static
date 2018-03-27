@@ -15,12 +15,11 @@
 		<h3>咨询登记</h3>
 		<span id="run_qrcode"> 二维码</span>
 		<a href="JavaScript:;" data-href="/pss/goSelectVisitors?from=1" class="btn">筛选</a>
-		<a href="JavaScript:;" id="exportData" class="btn">导出结果</a>
 		<a href="JavaScript:;" class="btn"><i>+</i>批量导入
 			<input type="file" class="inputFile">
 		</a>
 		<a href="JavaScript:;" data-href="/pss/goAddVisitor" class="btn"><i>+</i>添加</a>
-
+		<a href="JavaScript:;" id="exportData" class="btn"><i>+</i>导出结果</a>
 	</div>
 	<div class="pub_list">
 		<div class="head">
