@@ -113,7 +113,7 @@ function(t) {
                         if (0 != t.errcode) return void $.dialogFull.Tips(t.errmsg);
                         $.dialogFull.Tips("提交成功！"),
                         $.ajaxGetHtml({
-                            url: "/pss/goTeacherDetail",
+                            url: "/pss/goSales",
                             data: {
                                 salesid: s || t.data.salesid
                             }
