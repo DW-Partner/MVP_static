@@ -103,6 +103,7 @@ function(t) {
                 t.zone_id = +t.zone_id;
                 var a = {
                     code: $("#school_code").val() || $("#zone_code").val(),
+                    zoneid: $('#school_zoneid').val() || $('#zone_zoneid').val(),
                     salesid: s,
                     data: JSON.stringify(t)
                 }; ! a.salesid && delete a.salesid,
