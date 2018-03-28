@@ -13,7 +13,7 @@
 	<div class="pub_form">
 		<ul>
 		</ul>
-		<a href="JavaScript:;" class="btn" id="submit_AddOrEditSales">确定</a>
+		<a href="JavaScript:;" class="btn" id="submit_AddOrEdit">确定</a>
 		<a href="JavaScript:;" data-href="/pss/goSales" class="btn_dis">取消</a>
 	</div>
 	<link href="/res/css/modules/AddOrEditSales.css" rel="stylesheet">
