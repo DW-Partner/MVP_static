@@ -100,7 +100,6 @@ function(t) {
                 error_text: "placeholder"
             });
             if (t) {
-                t.zone_id = +t.zone_id;
                 var a = {
                     code: $("#school_code").val() || $("#zone_code").val(),
                     zoneid: $('#school_zoneid').val() || $('#zone_zoneid').val(),
