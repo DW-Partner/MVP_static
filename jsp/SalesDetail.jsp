@@ -11,10 +11,9 @@
     <input type="hidden" id="salesid" value="${salesid}">
     <!-- 隐藏域end -->
 
-
 	<div class="page_head">
 		<h3>顾问详情</h3>
-		<a href="javascript:;" data-href="/pss/goAddOrEditSalesid?salesid=${salesid}" class="btn"><i class="icon"></i>编辑基本信息</a>
+		<a href="javascript:;" data-href="/pss/goAddOrEditSales?salesid=${salesid}" class="btn"><i class="icon"></i>编辑基本信息</a>
 	</div>
 
 	<div class="TeacherDetail">
@@ -25,10 +24,6 @@
 			<div class="center">
 			</div>
 		</div>
-
-
-
-
 
 		<div class="content_bottom">
 			<h5>教师身份二维码</h5>
