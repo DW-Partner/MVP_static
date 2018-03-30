@@ -26,7 +26,7 @@
 		</div>
 
 		<div class="content_bottom">
-			<h5>教师身份二维码</h5>
+			<h5>顾问身份二维码</h5>
 			<div class="codeImg">
 				<div class="img_box" id="img_box">
 				</div>
