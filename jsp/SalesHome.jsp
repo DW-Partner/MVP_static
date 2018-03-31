@@ -10,7 +10,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>${zone_name}-首页</title>
+    <title>首页</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" /><p></p><img src="/download/school_logo_${code}.png" />
-        <p><span class="times" id="times"></span></p> <span class="user">${zone_name}<a href="JavaScript:;" id="logout">退出</a></span> </div>
+        <p><span class="times" id="times"></span></p> <span class="user">${sales_name}<a href="JavaScript:;" id="logout">退出</a></span> </div>
 
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="zone_code" value="${code}">
