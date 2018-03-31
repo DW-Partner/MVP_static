@@ -13,7 +13,7 @@
     <!-- 隐藏域end -->
 	<div class="page_head">
 		<h3>咨询登记</h3>
-		<span id="run_qrcode" class="run_qrcode"> 二维码</span>
+		<span id="run_qrcode" class="run_qrcode"></span>
 		<a href="JavaScript:;" data-href="/pss/goSelectVisitors?from=1" class="btn">筛选</a>
 		<a href="JavaScript:;" class="btn"><i>+</i>批量导入
 			<input type="file" class="inputFile">
