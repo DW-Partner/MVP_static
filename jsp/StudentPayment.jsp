@@ -18,13 +18,17 @@
 		<div class="left">
 			<ul>
 				<li>
-					<span class="wide">缴费金额</span>
+					<span class="wide"><i>*</i>缴费金额</span>
 					<input type="text" class="short" placeholder="请输入缴费金额" name="money" data-validate="number" data-must="1" />元
 				</li>
 				<li>
+					<span class="wide"><i>*</i>购买课时数</span>
+					<input type="text" class="short" placeholder="请输入购买课时数" name="lessons" />节
+				</li>
+<!-- 				<li>
 					<span class="wide">购买课时数</span>
 					<input type="text" class="short" placeholder="请输入购买课时数" name="lessons" data-validate="number" data-must="1" />节
-				</li>
+				</li> -->
 				<li>
 					<span class="wide">备注说明</span>
 					<textarea placeholder="请输入备注说明(不超过100字)" name="notes" data-validate="any" maxlength="100"></textarea>
