@@ -21,10 +21,12 @@
 			<li>
 				<span class="wide">当日流水实收</span>
 				<input type="text" placeholder="请输入当日流水实收" name="income" data-validate="number" data-must="1" />
+				<em>元</em>
 			</li>
 			<li>
 				<span class="wide">当日杂项支出</span>
 				<input type="text" placeholder="请输入当日杂项支出" name="outcome" data-validate="number" data-must="1" />
+				<em>元</em>
 			</li>
 		</ul>
 		<a href="JavaScript:;" class="btn" id="submitInAndOutCome">提交</a>
