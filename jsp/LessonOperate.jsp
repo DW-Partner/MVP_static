@@ -11,6 +11,7 @@
     <input type="hidden" id="classid" value="${classid}">
     <input type="hidden" id="lessonid" value="${lessonid}">
     <input type="hidden" id="sid" value="${sid}">
+    <input type="hidden" id="status" value="${status}">
     <!-- 隐藏域end -->
     <div class="page_head">
         <h3>课时调整</h3>
