@@ -48,6 +48,11 @@
 					<span class="wide">剩余课时数</span>
 					<em class="remain_lessons">-</em>
 				</li>
+				<li>
+					<span class="wide">购买总课时数</span>
+					<em class="total_lessons">-</em>
+				</li>
+				
 			</ul>
 		</div>
 	</div>
