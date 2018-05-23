@@ -15,6 +15,7 @@
 	<div class="page_head">
 		<h3>教师详情</h3>
 		<a href="JavaScript:;" id="action" class="btn action"><i class="icon"></i><span></span></a>
+		<a href="JavaScript:;" id="unBindTeacher" class="btn">解绑教师</a>
 		<a href="javascript:;" data-href="/pss/goAddOrEditTeacher?tid=${tid}" class="btn"><i class="icon"></i>编辑基本信息</a>
 	</div>
 
