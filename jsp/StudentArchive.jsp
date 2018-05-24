@@ -16,7 +16,7 @@
     <!-- 隐藏域end -->
  	<div class="page_head">
  		<h3></h3>
-		<a href="JavaScript:;" data-href="/pss/goStudentArchive?page=${page}" class="btn">返回上一页</a>
+		<a href="JavaScript:;" data-href="/pss/goStudentManage?page=${page}" class="btn">返回上一页</a>
 	</div>
 
 	<ul class="class_list">
