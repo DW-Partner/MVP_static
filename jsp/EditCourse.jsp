@@ -20,13 +20,13 @@
 		<a href="JavaScript:;" id="add_lesson_batch" class="btn">批量添加课时</a>
 		<a href="JavaScript:;" id="import_lesson" class="btn none">
 			<input type="file" class="inputFile">
-			批量导入(csv文件)</a>
+			批量导入(csv文件)</a> 
 		<!-- <a href="JavaScript:;" id="submit_del_AddOrEditCourse" class="btn_dis">删除课时</a> -->
 	</div>
 	<div class="pub_list">
 		<div class="head">
 			<span>课时序号</span>
-			<span>课程主题名</span>
+			<span>课时主题名</span>
 			<span>当前状态</span>
 			<span>教学大纲</span>
 			<span>操作</span>
