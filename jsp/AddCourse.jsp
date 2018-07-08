@@ -24,7 +24,7 @@
 			<span>课时序号</span>
 			<span>课时主题名</span>
 			<span>当前状态</span>
-			<span>教学大纲</span>
+			<span>教学目标</span>
 			<span>操作</span>
 		</div>
 		<ul class="body" id="lessons">

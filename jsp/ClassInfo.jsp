@@ -13,6 +13,7 @@
     <!-- 隐藏域end -->
  	<div class="page_head">
  		<h3>班级信息——班级课程表</h3>
+ 		<a href="JavaScript:;" data-href="/pss/goAddOrEditZone" class="addLessonBtn"><i>+</i>添加课时</a>
  		<div class="run">
 		</div>
 	</div>

@@ -19,6 +19,8 @@
 			<span>主课老师</span>
 			<span>正式学员</span>
 			<span>试听学员</span>
+			<span>当前剩余课时</span>
+			<span>状态</span>
 			<span>操作</span>
 		</div>
 		<ul class="body">
