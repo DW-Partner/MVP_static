@@ -36,6 +36,11 @@
 				<span class="wide"><i>*</i>开班时间</span>
 				<input type="text" id="start_time" class="short" name="start_time" data-validate="any" data-must="1"/>
 			</li>
+			
+			<li>
+				<span class="wide"><i>*</i>开班地点</span>
+				<input type="text" id="classroom" class="short" name="classroom" data-validate="any" data-must="1"/>
+			</li>
 
 			<li>
 				<span class="wide">设置为试听班级</span>

@@ -27,9 +27,7 @@
 			<span>班级</span>
 			<span>出生日期</span>
 			<span>性别</span>
-			<span class="flex_2">住址</span>
 			<span class="flex_2">电话</span>
-			<span>来源</span>
 			<span>总剩余课时</span>
 			<span class="flex_2">操作</span>
 		</div>
@@ -40,6 +38,9 @@
 			</p>
 		</div>
 	</div>
+
+	<!-- <span>来源</span>
+	<span class="flex_2">住址</span>-->
 
 <!-- 	<div class="run">
 		<a href="JavaScript:;" class="btn_grey">报名添加</a>

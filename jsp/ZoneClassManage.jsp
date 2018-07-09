@@ -16,6 +16,7 @@
 		<div class="head">
 			<span>班级名称</span>
 			<span>开班时间</span>
+			<span>开班地点</span>
 			<span>主课老师</span>
 			<span>正式学员</span>
 			<span>试听学员</span>
