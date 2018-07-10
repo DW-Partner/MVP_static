@@ -32,7 +32,7 @@
             <!-- 隐藏域end -->
             <!-- 扫描登录start -->
             <div class="qrcodeLogin">
-                <!-- <a href="JavaScript:;" class="ico"></a> -->
+                <a href="JavaScript:;" class="loginType" data-type="qrcodeLogin"></a>
                 <div class="qrcode">
                 </div>
                 <p>打开微信，进入培生素公众号，进入我的培生素选择扫一扫，扫描上图二维码登录</p>
@@ -45,6 +45,28 @@
                 <p>扫描成功，请在手机上根据提示确认登录</p>
             </div>
             <!-- 扫描成功end -->
+
+            <!-- 账号密码登录start -->
+            <div class="passwordLogin none">
+                <a href="JavaScript:;" class="loginType" data-type="passwordLogin"></a>
+                <h5>密码登录</h5>
+                <div class="pub_form">
+                    <ul>
+<!--                         <li>
+                            <input type="text" name="code" data-validate="number" data-must="1" placeholder="机构代码" />
+                        </li> -->
+                        <li>
+                            <input type="text" name="mobile" data-validate="mobile" data-must="1"  placeholder="注册手机号" />
+                        </li>
+                        <li>
+                            <input type="password" name="password" data-validate="password" data-must="1"  placeholder="密码" />
+                        </li>
+                    </ul>
+                    <p class="none">机构代码、用户名和密码不匹配</p>
+                    <a href="JavaScript:;" class="btn" id="submit_login">登录</a>
+                </div>
+            </div>
+            <!-- 账号密码登录end -->
 
             <!-- 扫描失败start -->
             <div class="loginStatus_error none">

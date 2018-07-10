@@ -29,6 +29,7 @@
 			<span>性别</span>
 			<span class="flex_2">电话</span>
 			<span>总剩余课时</span>
+			<span>课时有效期</span>
 			<span class="flex_2">操作</span>
 		</div>
 		<ul class="body">
