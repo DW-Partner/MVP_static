@@ -29,6 +29,10 @@
 					<select id="tid" name="tid" data-validate="any" data-must="1">
 					</select>
 				</li>
+				<li>
+					<span class="wide">学员调整</span>
+					<a href="JavaScript:;" class="btn" id="student_select">选择</a>
+				</li>
 			</ul>
 			<a href="JavaScript:;" class="btn" id="submit_edit">确定</a>
 			<a href="JavaScript:;" data-href="/pss/goClassInfo?classid=${classid}&sid=${sid}" class="btn_dis">取消</a>
