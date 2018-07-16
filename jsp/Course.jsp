@@ -22,7 +22,7 @@
 				<span>课程目标</span>
 				<span class="flex_3">课程介绍</span>
 				<span>收费模式</span>
-				<span class="flex_3">操作</span>
+				<span class="flex_2">操作</span>
 		</div>
 		<ul class="body">
 		</ul>
