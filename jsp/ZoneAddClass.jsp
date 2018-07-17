@@ -38,8 +38,8 @@
 			</li>
 			
 			<li>
-				<span class="wide"><i>*</i>开班地点</span>
-				<input type="text" id="classroom" class="short" name="classroom" data-validate="any" data-must="1"/>
+				<span class="wide">教室位置</span>
+				<input type="text" id="classroom" class="short" name="classroom" data-validate="any"/>
 			</li>
 
 			<li>
