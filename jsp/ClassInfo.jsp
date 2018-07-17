@@ -14,7 +14,7 @@
  	<div class="page_head">
  		<h3>班级信息——班级课程表</h3>
  		<div class="run">
-			<a href="JavaScript:;" data-href="/pss/goAddOrEditZone" class="btn addLessonBtn"><i>+</i>添加课时</a>
+			<a href="JavaScript:;" class="btn addLessonBtn"><i>+</i>添加课时</a>
 		</div>
 	</div>
 
