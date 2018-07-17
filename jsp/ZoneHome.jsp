@@ -70,7 +70,7 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="http://pss.idrpeng.com:9090/res/js/CMD.js"></script>
+    <script type="text/javascript" src="/res/js/CMD.js"></script>
     <script type="text/javascript" src="/res/js/modules/zoneHome.js"></script>
 </body>
 </html>
