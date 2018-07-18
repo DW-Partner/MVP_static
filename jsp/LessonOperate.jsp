@@ -31,7 +31,7 @@
 				</li>
 				<li>
 					<span class="wide">学员调整</span>
-					<a href="JavaScript:;" class="btn" id="student_select">选择</a>
+					<a href="JavaScript:;" class="btn" id="student_select">查看与选择</a>
 				</li>
 			</ul>
 			<a href="JavaScript:;" class="btn" id="submit_edit">确定</a>

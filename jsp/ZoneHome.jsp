@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
-    <link href="/res/css/modules/zoneHome.css" rel="stylesheet">
+    <link href="http://pss.idrpeng.com:9091/res/css/modules/zoneHome.css" rel="stylesheet">
 </head>
 <body>
     <div class="top_box"> <img src="/res/images/logo_92244787.png" /><p></p><img src="/download/school_logo_${code}.png" />
@@ -70,7 +70,7 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="/res/js/CMD.js"></script>
-    <script type="text/javascript" src="/res/js/modules/zoneHome.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9091/res/js/CMD.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9091/res/js/modules/zoneHome.js"></script>
 </body>
 </html>

@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link href="/res/css/CMD.css" rel="stylesheet">
-    <link href="/res/css/modules/SchoolLogin.css" rel="stylesheet">
+    <link href="http://pss.idrpeng.com:9091/res/css/modules/SchoolLogin.css" rel="stylesheet">
 </head>
 
 <body>
@@ -75,8 +75,8 @@
         </div>
     </div>
     <p class="layout_footer">京 ICP 证 17002468 号 | Copyright © 2006-2017, website.com, All Rights Reserved</p>
-    <script type="text/javascript" src="/res/js/CMD.js"></script>
-    <script type="text/javascript" src="/res/js/modules/SchoolLogin.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9091/res/js/CMD.js"></script>
+    <script type="text/javascript" src="http://pss.idrpeng.com:9091/res/js/modules/SchoolLogin.js"></script>
 </body>
 
 </html>
