@@ -61,7 +61,7 @@
                 <div class="qrcode_show">
                     <div class="qrcode">
                     </div>
-                    <p>打开微信，进入培生素公众号，进入我的培生素选择扫一扫，扫描上图二维码登录</p>
+                    <p>进入培生素公众号，点击课表，扫一扫登录</p>
                 </div>
                 <!-- 扫描成功start -->
                 <div class="loginStatus_success none">
