@@ -40,32 +40,54 @@
     </div>
     <div class="main_box" id="main_box">
         <div class="main">
-            <div class="page_head"> <input type="text" id="s_date" class="run" style="width: 200px;"/> </div>
-            <div class="class_show">
-                <div class="list_box">
+            <div class="calendar_box">
+                <div class="calendar_list">
+                    <div class="calendar_head">
+                        <a class="selectBtn selectYear" href="javascript:">----</a>
+                        <b>.</b>
+                        <a class="selectBtn selectMonth">--</a>
+                        <div class="linkBox">
+                            <a class="msg" href="javascript:" data-href="/pss/goZoneTasks#goZoneTasks">新消息请及时处理</a>
+                            <a class="addLesson" href="javascript:">当日加课</a>
+                        </div>
+                    </div>
+                    <div id="context">
+                        <div class="week">
+                            <span> 一 </span>
+                            <span> 二 </span>
+                            <span> 三 </span>
+                            <span> 四 </span>
+                            <span> 五 </span>
+                            <span> 六 </span>
+                            <span> 日 </span>
+                        </div>
+                        <div id="center">
+                            <div id="centerMain">
+                                <div id="selectYearDiv"></div>
+                                <div id="centerCalendarMain"></div>
+                                <div id="selectMonthDiv"></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="times"> <span>08:00</span> <span>10:00</span> <span>12:00</span> <span>14:00</span> <span>16:00</span> <span>18:00</span> <span>20:00</span><span></span></div>
+                <div class="calendar_info">
+                    <ul>
+                    </ul>
+                </div>
             </div>
-            <p class="class_info"></p>
-            <div class="echartsBox" id="echartsBox_1" style="padding: 30px;">
-                <div class="selectBox">
-                    <select name="" class="echartSelect_date">
-                        <option value="day">天</option>
-                        <option value="week">周</option>
-                        <option value="month">月</option>
-                    </select>
-                    <select name="" class="echartSelect_type">
-                        <option value="income">流水实收</option>
-                        <option value="outcome">杂项支出</option>
-                        <option value="visit_num">咨询登记数</option>
-                        <option value="sign_num">报名数</option>
-                        <option value="reserve_num">预约发出数</option>
-                        <option value="teacher_leave_num">请假数</option>
-                        <option value="class_num">开班数</option>
-                    </select>
-                    <a href="javascript:;" class="btn">查询</a>
+            <div class="info_box">
+                <div class="lesson_box">
                 </div>
-                <div class="echarts" id="echart1" style="height: 427px;">
+                <div class="student_box">
+                    <p><b>未签到：</b></p>
+                    <p><b>已签到：</b></p>
+                    <p><b>请假：</b></p>
+                    <p><b>缺勤：</b></p>
+                </div>
+                <div class="qr_box">
+                    <div class="qr_img">
+                    </div>
+                    <p>扫码完成本节签到</p>
                 </div>
             </div>
         </div>
