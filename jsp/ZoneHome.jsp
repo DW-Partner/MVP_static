@@ -87,7 +87,7 @@
                 <div class="qr_box">
                     <div class="qr_img">
                     </div>
-                    <p>扫码完成本节签到</p>
+                    <p>微信扫一扫 完成本节签到</p>
                 </div>
             </div>
         </div>
