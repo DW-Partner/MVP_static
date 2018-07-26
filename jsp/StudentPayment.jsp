@@ -10,7 +10,6 @@
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="sid" value="${sid}">
     <!-- 隐藏域end -->
-
 	<div class="page_head">
 		<h3>缴续费</h3>
 	</div>
@@ -41,7 +40,6 @@
 			<a href="JavaScript:;" class="btn" id="submit">确认提交</a>
 			<a href="JavaScript:;" data-href="/pss/goStudentManage" class="btn_dis">取消</a>
 		</div>
-
 		<div class="right">
 			<ul>
 				<li>
@@ -60,11 +58,9 @@
 					<span class="wide">课时有效期</span>
 					<em class="expiretime">-</em>
 				</li>
-				
 			</ul>
 		</div>
 	</div>
-
 	<div class="page_head">
 		<h3>缴费明细列表</h3>
 	</div>
