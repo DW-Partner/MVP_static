@@ -26,7 +26,7 @@
 					<input type="text" class="short" placeholder="请输入购买课时数" name="lessons" />节
 				</li>
 				<li>
-					<span class="wide">课时有效期”</span>
+					<span class="wide">课时有效期</span>
 					<input type="text" id="expiretime" class="short" placeholder="请输入课时有效期" name="expiretime" />
 				</li>
 <!-- 				<li>
