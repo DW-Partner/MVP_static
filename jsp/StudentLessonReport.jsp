@@ -17,7 +17,7 @@
     <!-- 隐藏域end -->
  	<div class="page_head">
  		<h3>教师反馈详情</h3>
-		<a href="JavaScript:;" data-href="/pss/goStudentPrintSituation?sid={sid}&page={page}&data={data}" class="btn">返回上一页</a>
+		<a href="JavaScript:;" data-href="/pss/goStudentPrintSituation?sid=${sid}&page=${page}&data=${data}" id="backBtn" class="btn">返回上一页</a>
 	</div>
 	<ul class="report">
 	</ul>

@@ -15,23 +15,17 @@
     <!-- 隐藏域end -->
  	<div class="page_head">
  		<h3>学员印记</h3>
- 		<!-- <a href="JavaScript:;" data-href="/pss/goStudentLessonReport?sid={sid}&page={page}&data={data}" class="btn">教师反馈</a> -->
 	</div>
-	<h3 class="page_title">印记摘要</h3>
 	<div id="summary" class="summary">
 	</div>
-	<h3 class="page_title">班级列表</h3>
-	<div id="classList" class="classList">
-	</div>
-
 	<div class="pub_list">
 		<div class="head">
-			<span>课时主题</span>
 			<span>时间</span>
-			<span>班级名称</span>
-			<span>状态</span>
-			<span>教师名称</span>
-			<span>操作</span>
+			<span>课时主题</span>
+			<span>班级</span>
+			<span>出勤情况</span>
+			<span>教师</span>
+			<span>教师反馈</span>
 		</div>
 		<ul class="body">
 		</ul>
