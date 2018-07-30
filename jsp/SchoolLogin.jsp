@@ -30,19 +30,20 @@
             <h6 data-type="qrcodeLogin"><em class="ico"></em>二维码登录</h6>
         </div>
 
-        <div class="type">
-            <label for="school">
-                <input type="radio" name="usertype" id="school" value="school" checked>
-                <span>机构</span>
-            </label>        
-            <label for="zone">
-                <input type="radio" name="usertype" id="zone" value="zone">
-                <span>校区</span>
-            </label>
-        </div>
 
         <!-- 账号密码登录start -->
         <div id="passwordLoginBox" class="pub_form" action="loginBox">
+
+		<div class="type">
+		    <label for="school">
+			<input type="radio" name="usertype" id="school" value="school" checked>
+			<span>机构</span>
+		    </label>        
+		    <label for="zone">
+			<input type="radio" name="usertype" id="zone" value="zone">
+			<span>校区</span>
+		    </label>
+		</div>
             <ul>
                 <li>
                     <input type="text" class="mobile" name="mobile" data-validate="mobile" data-must="1"  placeholder="请输入注册手机号">
