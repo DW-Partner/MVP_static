@@ -9,7 +9,7 @@
 <div class="main">
     <!-- 隐藏域start school_code -->
     <input type="hidden" id="classid" value="${classid}">
-    <input type="hidden" id="classname" value="${classname}">
+    <input type="hidden" id="classname" value="${class_name}">
     <input type="hidden" id="sid" value="${sid}">
     <input type="hidden" id="sname" value="${sname}">
     <input type="hidden" id="page" value="${page}">
