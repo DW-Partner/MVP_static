@@ -47,7 +47,7 @@
                         <b>.</b>
                         <a class="selectBtn selectMonth">--</a>
                         <div class="linkBox">
-                            <a class="msg" href="javascript:" data-href="/pss/goZoneTasks#goZoneTasks">新消息请及时处理</a>
+                            <a class="msg" href="javascript:" data-href="/pss/goZoneTasks#goZoneTasks"></a>
                             <a class="addLesson" href="javascript:">当日加课</a>
                         </div>
                     </div>
