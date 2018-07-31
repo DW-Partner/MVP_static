@@ -34,13 +34,17 @@
         <!-- 账号密码登录start -->
         <div id="passwordLoginBox" class="pub_form" action="loginBox">
 
-		<div class="type">
-		    <label for="school">
+		<div class="type">		
+		    <label for="school" class="radio">
+			<span class="radio-bg"></span>
 			<input type="radio" name="usertype" id="school" value="school" checked>
+			<span class="radio-on"></span>
 			<span>机构</span>
 		    </label>        
-		    <label for="zone">
+		    <label for="zone" class="radio">
+			<span class="radio-bg"></span>
 			<input type="radio" name="usertype" id="zone" value="zone">
+			<span class="radio-on"></span>
 			<span>校区</span>
 		    </label>
 		</div>
