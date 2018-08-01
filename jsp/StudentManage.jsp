@@ -22,9 +22,9 @@
 	</div>
 	<div class="pub_list">
 		<div class="head">
-			<span class="flex_2">录入时间</span>
+			<span>录入时间</span>
 			<span>姓名</span>
-			<span class="flex_2">班级</span>
+			<span class="flex_3">班级</span>
 			<span>出生日期</span>
 			<span>性别</span>
 			<span class="flex_2">电话</span>
