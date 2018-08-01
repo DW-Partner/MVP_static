@@ -81,8 +81,8 @@
                 <div class="student_box">
                     <p><b>未签到：</b></p>
                     <p><b>已签到：</b></p>
-                    <p><b>请假：</b></p>
-                    <p><b>缺勤：</b></p>
+                    <p><b>请&nbsp;&nbsp;&nbsp;假：</b></p>
+                    <p><b>缺&nbsp;&nbsp;&nbsp;勤：</b></p>
                 </div>
                 <div class="qr_box">
                     <div class="qr_img">
