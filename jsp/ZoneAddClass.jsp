@@ -33,6 +33,17 @@
 			</li>
 			
 			<li>
+				<span class="wide"><i>*</i>选择教师</span>
+				<select name="teacher_id" data-validate="any" data-must="1">
+				</select>
+			</li>
+			<li>
+				<span class="wide">选择助教</span>
+				<select name="assistant_id" data-validate="any" data-must="1">
+					<option value="">请选择</option>
+				</select>
+			</li>
+			<li>
 				<span class="wide"><i>*</i>开班时间</span>
 				<input type="text" id="start_time" class="short" name="start_time" data-validate="any" data-must="1"/>
 			</li>
