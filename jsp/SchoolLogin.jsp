@@ -36,15 +36,15 @@
 
 		<div class="type">		
 		    <label for="school" class="radio">
-			<span class="radio-bg"></span>
 			<input type="radio" name="usertype" id="school" value="school" checked>
 			<span class="radio-on"></span>
+			<span class="radio-bg"></span>
 			<span>机构</span>
 		    </label>        
 		    <label for="zone" class="radio">
-			<span class="radio-bg"></span>
 			<input type="radio" name="usertype" id="zone" value="zone">
 			<span class="radio-on"></span>
+			<span class="radio-bg"></span>
 			<span>校区</span>
 		    </label>
 		</div>
