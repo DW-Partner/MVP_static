@@ -39,7 +39,7 @@
 			</li>
 			<li>
 				<span class="wide">选择助教</span>
-				<select name="assistant_id" data-validate="any" data-must="1">
+				<select name="assistant_id" data-validate="any">
 					<option value="">请选择</option>
 				</select>
 			</li>
