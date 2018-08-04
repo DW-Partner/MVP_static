@@ -11,7 +11,6 @@
 
 <!-- {"class_name":"newnew","course_id":15,"reserve_num":18,"teacher_id":2,"start_time":"2017-10-23 16:00:00","lessons":[{"lesson":"2017-10-23 16:00:00"},{"lesson":"2017-10-30 16:00:00"}]}
  -->
-
 		<ul>
 			<li>
 				<span class="wide"><i>*</i>班级名称</span>
