@@ -25,9 +25,6 @@
 			<li>
 				<span class="wide"><i>*</i>预招人数</span>
 				<input type="text" class="short" placeholder="请输入预招人数" name="reserve_num" data-validate="number" data-must="1" />
-				<span class="wide"><i>*</i>选择教师</span>
-				<select name="teacher_id" data-validate="any" data-must="1">
-					<!-- <option>请选择</option> -->
 				</select>
 			</li>
 			
