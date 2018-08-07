@@ -24,11 +24,13 @@
 		<div class="pub_list">
 			<div class="head">
 				<span>班级名称</span>
-				<span>课程名称</span>
-				<span>开课时间</span>
-				<span>教师姓名</span>
-				<!--<span>当前课时</span>-->
-				<span>学员数</span>
+				<span>开班时间</span>
+				<span>教室位置</span>
+				<span>主课老师</span>
+				<span>正式学员</span>
+				<span>试听学员</span>
+				<span>当前剩余课时</span>
+				<span>状态</span>
 			</div>
 			<ul class="body">
 			</ul>
