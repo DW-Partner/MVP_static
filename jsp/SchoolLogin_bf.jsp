@@ -75,8 +75,8 @@
         </div>
     </div>
     <p class="layout_footer">京 ICP 证 17002468 号 | Copyright © 2006-2017, website.com, All Rights Reserved</p>
-    <script type="text/javascript" src="http://pss.idrpeng.com:9091/res/js/CMD.js"></script>
-    <script type="text/javascript" src="http://pss.idrpeng.com:9091/res/js/modules/SchoolLogin.js"></script>
+    <script type="text/javascript" src="/res/js/CMD.js"></script>
+    <script type="text/javascript" src="/res/js/modules/SchoolLogin.js"></script>
 </body>
 
 </html>
