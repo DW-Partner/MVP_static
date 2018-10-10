@@ -58,8 +58,19 @@
 			</li>
 
 			<li>
-				<span class="wide" style="width:140px;"><i>*</i>每节课扣减课时数</span>
-				<input type="text" id="deduction_lessons" class="short" placeholder="请输入每节课扣减课时数" name="deduction_lessons" data-validate="number" data-must="1"/>
+				<span class="wide" style="width:140px;">每节课扣减课时数</span>
+				<select id="deduction_lessons" name="deduction_lessons" data-validate="number" data-must="1">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
 			</li>
 
 			
