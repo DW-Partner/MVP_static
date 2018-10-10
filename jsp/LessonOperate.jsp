@@ -34,7 +34,7 @@
 					<a href="JavaScript:;" class="btn" id="student_select">查看与选择</a>
 				</li>
 				<li>
-					<span class="wide"><i>*</i>每节课扣减课时数</span>
+					<span class="wide" style="width:140px;"><i>*</i>每节课扣减课时数</span>
 					<input type="text" id="deduction_lessons" class="short" placeholder="请输入每节课扣减课时数" name="deduction_lessons" data-validate="number" data-must="1"/>
 				</li>
 			</ul>

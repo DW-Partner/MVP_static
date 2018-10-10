@@ -26,9 +26,19 @@
 			<li>
 				<span class="wide"><i>*</i>预招人数</span>
 				<input type="text" class="short" placeholder="请输入预招人数" name="reserve_num" data-validate="number" data-must="1" />
+			</li>
+			
+			<li>
 				<span class="wide"><i>*</i>选择教师</span>
 				<select name="teacher_id" data-validate="any" data-must="1">
-					<!-- <option>请选择</option> -->
+				</select>
+			</li>
+
+
+			<li>
+				<span class="wide">选择助教</span>
+				<select name="assistant_id" data-validate="any">
+					<option value="">请选择</option>
 				</select>
 			</li>
 			
@@ -43,12 +53,12 @@
 			</li>
 
 			<li>
-				<span class="wide">设置为试听班级</span>
+				<span class="wide" style="width:110px;">设置为试听班级</span>
 				<input type="checkbox" id="set_audit" class="m-checkbox" value="1"><label for="set_audit"></label>
 			</li>
 
 			<li>
-				<span class="wide"><i>*</i>每节课扣减课时数</span>
+				<span class="wide" style="width:140px;"><i>*</i>每节课扣减课时数</span>
 				<input type="text" id="deduction_lessons" class="short" placeholder="请输入每节课扣减课时数" name="deduction_lessons" data-validate="number" data-must="1"/>
 			</li>
 
@@ -105,7 +115,7 @@
 								<option value="31">31日</option>
 							</select>
 							<input type="text" class="short" id="day_times" placeholder="请输入上课时段" />
-							<a href="JavaScript:;" class="btn run_item_add">添加</a>
+							<a href="JavaScript:;" class="run_item_add">+</a>
 						</div>
 					</div>
 			</li>
