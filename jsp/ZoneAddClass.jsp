@@ -11,6 +11,7 @@
 
 <!-- {"class_name":"newnew","course_id":15,"reserve_num":18,"teacher_id":2,"start_time":"2017-10-23 16:00:00","lessons":[{"lesson":"2017-10-23 16:00:00"},{"lesson":"2017-10-30 16:00:00"}]}
  -->
+
 		<ul>
 			<li>
 				<span class="wide"><i>*</i>班级名称</span>
@@ -25,20 +26,12 @@
 			<li>
 				<span class="wide"><i>*</i>预招人数</span>
 				<input type="text" class="short" placeholder="请输入预招人数" name="reserve_num" data-validate="number" data-must="1" />
+				<span class="wide"><i>*</i>选择教师</span>
+				<select name="teacher_id" data-validate="any" data-must="1">
+					<!-- <option>请选择</option> -->
 				</select>
 			</li>
 			
-			<li>
-				<span class="wide"><i>*</i>选择教师</span>
-				<select name="teacher_id" data-validate="any" data-must="1">
-				</select>
-			</li>
-			<li>
-				<span class="wide">选择助教</span>
-				<select name="assistant_id" data-validate="any">
-					<option value="">请选择</option>
-				</select>
-			</li>
 			<li>
 				<span class="wide"><i>*</i>开班时间</span>
 				<input type="text" id="start_time" class="short" name="start_time" data-validate="any" data-must="1"/>
@@ -50,9 +43,15 @@
 			</li>
 
 			<li>
-				<span class="wide" style="width:110px;">设置为试听班级</span>
+				<span class="wide">设置为试听班级</span>
 				<input type="checkbox" id="set_audit" class="m-checkbox" value="1"><label for="set_audit"></label>
 			</li>
+
+			<li>
+				<span class="wide"><i>*</i>每节课扣减课时数</span>
+				<input type="text" id="deduction_lessons" class="short" placeholder="请输入每节课扣减课时数" name="deduction_lessons" data-validate="number" data-must="1"/>
+			</li>
+
 			
 			<li>
 				<span class="wide"><i>*</i>上课时段</span>
@@ -106,7 +105,7 @@
 								<option value="31">31日</option>
 							</select>
 							<input type="text" class="short" id="day_times" placeholder="请输入上课时段" />
-							<a href="JavaScript:;" class="run_item_add">+</a>
+							<a href="JavaScript:;" class="btn run_item_add">添加</a>
 						</div>
 					</div>
 			</li>
