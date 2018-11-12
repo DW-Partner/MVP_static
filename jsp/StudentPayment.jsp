@@ -28,10 +28,10 @@
 					<span class="wide">课时有效期</span>
 					<input type="text" id="expiretime" class="short" placeholder="请输入课时有效期" name="expiretime" />
 				</li>
-<!-- 				<li>
-					<span class="wide">购买课时数</span>
-					<input type="text" class="short" placeholder="请输入购买课时数" name="lessons" data-validate="number" data-must="1" />节
-				</li> -->
+				<li>
+					<span class="wide">核销课时数</span>
+					<input type="text" class="short" placeholder="请输入核销课时数" name="off_lessons" data-validate="number" />
+				</li>
 				<li>
 					<span class="wide">备注说明</span>
 					<textarea placeholder="请输入备注说明(不超过100字)" name="notes" data-validate="any" maxlength="100"></textarea>
@@ -69,7 +69,9 @@
 			<span>缴费时间</span>
 			<span>缴费金额</span>
 			<span>购买课时</span>
+			<span>核销课时数</span>
 			<span class="flex_3">备注说明</span>
+			<span>操作</span>
 		</div>
 		<ul class="body">
 		</ul>
